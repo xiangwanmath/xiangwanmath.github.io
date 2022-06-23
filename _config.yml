@@ -1,7 +1,7 @@
 
-title: "Homepage of Dr. Xiang Wan"
+title: "Xiang Wan"
 author: "Sean Wan"
-description: "DDDepartment of Mathematics,  LLLoyola University Chicago"
+description: "Department of Mathematics and Statistics,  Loyola University Chicago"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -14,7 +14,6 @@ show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 
 # Menu
-
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   #- {url: "/katie.pdf", title: "CV"}
