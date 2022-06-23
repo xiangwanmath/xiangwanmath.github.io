@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "a random title to give"
+title: ""
 ---
 
 I'm an assistant professor in the Loyola University Chicago.
