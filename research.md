@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research"
-tag: "res"
+tags: "res"
 ---
 
 This is my research summary.
