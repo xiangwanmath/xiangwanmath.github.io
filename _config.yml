@@ -1,5 +1,5 @@
 
-title: "Xiang Wan"
+title: "Xiang Wan's Homepage"
 author: "Sean Wan"
 description: "Department of Mathematics and Statistics,  Loyola University Chicago"
 permalink: /:title/
@@ -15,7 +15,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 # Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md"}
+  - {file: "research.md"}
   #- {url: "/katie.pdf", title: "CV"}
   - {title: "Teaching", file: "teaching.md"}
   - {title: "Research", file: "research.md"}
