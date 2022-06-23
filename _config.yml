@@ -3,7 +3,7 @@ title: "Homepage of Dr. Xiang Wan"
 author: "Sean Wan"
 description: "DDDepartment of Mathematics, <a href="www.luc.edu"> LLLoyola University Chicago </a>"
 permalink: /:title/
-lang: "en"Loyola University Chicago 
+lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
