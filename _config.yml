@@ -1,9 +1,9 @@
 
 title: "Xiang Wan"
-author: "Xiang Wan"
-description: "Department of Mathematics, Loyola University Chicago"
+author: "Sean Wan"
+description: "Department of Mathematics, <a href="www.luc.edu"> Loyola University Chicago </a>"
 permalink: /:title/
-lang: "en"
+lang: "en"Loyola University Chicago 
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
