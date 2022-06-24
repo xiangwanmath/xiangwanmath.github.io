@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-<img style="float: right; margin:2% 0%; margin-top: 0" src="/_pic/XWan_HC.jpeg" alt = "Xiang Wan Profile" width = "40%">
+<img style="float: right; margin:2% 0%; margin-top: 0" src="{{ site.baseurl }}/_pic/XWan_HC.jpeg" alt = "Xiang Wan Profile" width = "40%">
 
 <!-- | Syntax | Description |
 | ----------- | ----------- |

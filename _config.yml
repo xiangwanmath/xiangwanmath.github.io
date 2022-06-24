@@ -1,3 +1,6 @@
+url: "https://xiangwanmath.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+
 title: "Xiang Wan"
 
 #author: "Sean Wan"
@@ -17,7 +20,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.md"}
   - {title: "Research", file: "research.md"}
-  - {title: "Teaching", file: "/_teaching/teaching_summary.md"}
+  - {title: "Teaching", file: "{{ site.baseurl }}/_teaching/teaching_summary.md"}
   #- {url: "/CV.pdf", title: "CV"}
   #- {title: "another1", file: "another1.md"}
 
