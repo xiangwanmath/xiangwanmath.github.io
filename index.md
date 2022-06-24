@@ -30,6 +30,6 @@ MWF ???
 I'm a mathematician with research interests in Partial Differential Equations, Control Theory, and Numerical Analysis. 
 
 Since Fall 2022, I am an assistant professor at the [Department of Mathematics and Statistics](https://www.luc.edu/math/index.shtml), [Loyola University Chicago](https://www.luc.edu/). 
-Previously, I was a Visiting Assistant Professor at [Haverford College](https://www.haverford.edu/mathematics-and-statistics), [the George Washington University](https://math.columbian.gwu.edu/)), and a Research Assistant Professor at [Wayne State University](https://clas.wayne.edu/math).
+Previously, I was a Visiting Assistant Professor at [Haverford College](https://www.haverford.edu/mathematics-and-statistics), at [the George Washington University](https://math.columbian.gwu.edu/), and a Research Assistant Professor at [Wayne State University](https://clas.wayne.edu/math).
 
 I received my Ph.D in Mathematics in 2017 from [the University of Virginia](https://math.virginia.edu/), under the supervision of [Dr. Irena Lasiecka](https://math.virginia.edu/people/il2v/).
