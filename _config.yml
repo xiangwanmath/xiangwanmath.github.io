@@ -1,6 +1,6 @@
-title: "Xiang Wan's Homepage"
+title: "Xiang Wan"
 
-author: "Sean Wan"
+#author: "Sean Wan"
 description: "Last Update: 06/23/2022"
 permalink: /:title/
 lang: "en"
@@ -15,10 +15,11 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 # Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "research.md"}
-  #- {url: "/katie.pdf", title: "CV"}
-  - {title: "Teaching", file: "teaching.md"}
+  - {title: "Home", file: "index.md"}
   - {title: "Research", file: "research.md"}
+  - {title: "Teaching", file: "/_teaching/teaching_summary.md"}
+  #- {url: "/CV.pdf", title: "CV"}
+  #- {title: "another1", file: "another1.md"}
 
 
 
