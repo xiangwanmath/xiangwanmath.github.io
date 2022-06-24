@@ -4,13 +4,7 @@ title: ""
 ---
 
 
-<img style="float: right; margin:2% 0%; margin-top: 0" src="{{ site.baseurl }}/_pic/XWan_HC.jpeg" alt = "Xiang Wan Profile" width = "40%">
-
-<!-- | Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
- -->
+<img style="float: right; margin:2% 0%; margin-top: 0" src="/pic/XWan_HC.jpeg" alt = "Xiang Wan Profile" width = "40%">
 
 
 **_Office:_**
@@ -32,7 +26,6 @@ MWF ???
 
 ***
 
-testing
 
 I'm a mathematician with research interests in Partial Differential Equations, Control Theory, and Numerical Analysis. 
 

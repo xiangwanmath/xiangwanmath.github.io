@@ -19,8 +19,8 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.md"}
-  - {title: "Research", file: "research.md"}
-  - {title: "Teaching", file: "{{ site.baseurl }}/_teaching/teaching_summary.md"}
+  - {title: "Research", file: "research_summary.md"}
+  - {title: "Teaching", file: "teaching_summary.md"}
   #- {url: "/CV.pdf", title: "CV"}
   #- {title: "another1", file: "another1.md"}
 
