@@ -11,7 +11,7 @@ title: ""
 BVM ??? 
 
 **_Contact:_**
-xwan1 AT luc DOT edu 
+xwan1 [AT] luc [DOT] edu 
 
 **_Tel:_**	
 776-???-???? 
