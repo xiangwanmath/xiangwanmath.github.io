@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching
 ---
 
-My teaching philosophy...
+[]: # My teaching philosophy...
 
 #### Fall 2022
 
