@@ -8,7 +8,7 @@ title: ""
 
 
 **_Office:_**
-BVM 516 
+BVM 516, Lake Shore Campus
 
 **_Contact:_**
 xwan1 [AT] luc [DOT] edu 
