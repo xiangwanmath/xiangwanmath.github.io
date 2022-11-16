@@ -22,7 +22,7 @@ xwan1 [AT] luc [DOT] edu
 - W: 9-10pm (Zoom; link on Sakai)
 
 **_Departmental Webpage:_**
-[<u>https://www.luc.edu/math/wanxiang.shtml/</u>](https://www.luc.edu/)
+[<u>https://www.luc.edu/math/wanxiang.shtml/</u>](https://www.luc.edu/math/wanxiang.shtml)
 
 
 
