@@ -29,7 +29,7 @@ xwan1 [AT] luc [DOT] edu
 ***
 
 
-I'm a mathematician with research interests in Partial Differential Equations, Control Theory, and Numerical Analysis. 
+I'm an applied mathematician with research interests in Partial Differential Equations, Control Theory, and Numerical Analysis. 
 
 Since Fall 2022, I am an assistant professor at the [Department of Mathematics and Statistics](https://www.luc.edu/math/index.shtml), [Loyola University Chicago](https://www.luc.edu/). 
 Previously, I was a Visiting Assistant Professor at [Haverford College](https://www.haverford.edu/mathematics-and-statistics), at [the George Washington University](https://math.columbian.gwu.edu/), and a Research Assistant Professor at [Wayne State University](https://clas.wayne.edu/math).
