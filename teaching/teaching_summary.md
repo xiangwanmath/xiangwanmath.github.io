@@ -6,6 +6,8 @@ permalink: /teaching
 
 <!--- My teaching philosophy... -->
 
+Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for enrolled students.
+
 #### Spring 2023
 
 - Math 131: Applied Calculus I
