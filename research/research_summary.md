@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research
 ---
 
-To be added soon.
 
 
 #### Publication
