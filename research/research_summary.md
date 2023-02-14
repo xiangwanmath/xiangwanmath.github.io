@@ -14,19 +14,75 @@ permalink: /research
 
     <details>
     <summary>Abstract</summary>
-
     We study an initial–boundary-value problem for a quasilinear thermoelastic plate of Kirchhoff & Love-type with parabolic heat conduction due to Fourier, mechanically simply supported and held at the reference temperature on the boundary. For this problem, we show the short-time existence and uniqueness of classical solutions under appropriate regularity and compatibility assumptions on the data. Further, we use barrier techniques to prove the global existence and exponential stability of solutions under a smallness condition on the initial data. It is the first result of this kind established for a quasilinear non-parabolic thermoelastic Kirchhoff & Love plate in multiple dimension.
     </details>
 
 2. [**Long-Time Behavior of Quasilinear Thermoelastic Kirchhoff-Love Plates with Second Sound**](https://www.sciencedirect.com/science/article/pii/S0362546X1930080X)
+    
     with Irena Lasiecka and Michael Pokojovy, <em>Nonlinear Analysis</em>, 186 (2019): 219-258.
 
     <details>
     <summary>Abstract</summary>
-
     We consider an initial–boundary-value problem for a thermoelastic Kirchhoff & Love plate, thermally insulated and simply supported on the boundary, incorporating rotational inertia and a quasilinear hypoelastic response, while the heat effects are modeled using the hyperbolic Maxwell–Cattaneo–Vernotte law giving rise to a ‘second sound’ effect. We study the local well-posedness of the resulting quasilinear mixed-order hyperbolic system in a suitable solution class of smooth functions mapping into Sobolev -spaces. Exploiting the sole source of energy dissipation entering the system through the hyperbolic heat flux moment, provided the initial data are small – not in the full topology of our solution class, but in a lower topology corresponding to weak solutions we prove a nonlinear stabilizability estimate furnishing global existence & uniqueness and exponential decay of classical solutions.
     </details>
 
+
+3. [**Unique Continuation Properties of Over-determined Static Boussinesq Problems with Application to Uniform Stabilization of Dynamic Boussinesq Systems**](https://link.springer.com/article/10.1007/s00245-020-09705-z)
+    
+    with Roberto Triggiani, <em>Applied Mathematics & Optimization</em>, 84 (2021), 2099–2146.
+
+    <details>
+    <summary>Abstract</summary>
+    We consider several direct and adjoint Boussinesq static problems under different types of over-determined conditions. We then conclude, in each case, that the solution pair corresponding to {fluid velocity, scalar temperature} must vanish identically on the whole domain, so that the pressure is then constant (Unique Continuation Property). In going from the direct to the adjoint problem, the coupling operators between the fluid and the thermal equations switch places. As a result, the adjoint Boussinesq system has a more favorable structure than the direct Boussinesq system and hence yields UCP results under weaker requirements; typically, a reduction by one or even two units on the number of components of the fluid vector being involved in the assumptions. To illustrate: in the key direct Boussinesq problem, over-determination consists of the additional vanishing of the solution pair in a common arbitrarily small subset of the interior. In contrast, in the corresponding adjoint Boussinesq problem, only the first (d−1) components of the d-dimensional fluid velocity vector need to be assumed as vanishing on the interior subset. These UCPs for the adjoint problem are critical ingredients in the solution of corresponding uniform stabilization problems of (direct) dynamic Boussinesq systems by suitable finite dimensional feedback controls. They allow one to verify a corresponding Kalman algebraic condition for controllability.
+    </details>
+
+4. [**The Taut String Approach to Statistical Inverse Problems: Theory and Applications**](https://www.sciencedirect.com/science/article/pii/S0377042720303897)
+    
+    with Sangjin Kim and Michael Pokojovy, <em>Journal of Computational and Applied Mathematics</em>, 382 (2021): 113098.
+
+    <details>
+    <summary>Abstract</summary>
+    A novel solution approach to a class of nonlinear statistical inverse problems with finitely many observations collected over a compact interval on the real line blurred by Gaussian white noise of arbitrary intensity is presented. Exploiting the nonparametric taut string estimator, we prove the state recovery strategy is convergent to a solution of the unnoisy problem at the rate of  as the number of observations  grows to infinity. Illustrations of the method’s application to real-world examples from hydrology, civil & electrical engineering are given and an empirical study on the robustness of our approach is presented.
+    </details>
+
+
+5. [**Regularity and finite element approximation for two-dimensional elliptic equations with line Dirac sources**](https://www.sciencedirect.com/science/article/pii/S0377042721001370)
+    
+    with Hengguang Li, Peimeng Yin, and Lewei Zhao, <em>Journal of Computational and Applied Mathematics</em>, 393 (2021): 113518.
+
+    <details>
+    <summary>Abstract</summary>
+    We study the elliptic equation with a line Dirac delta function as the source term subject to the Dirichlet boundary condition in a two-dimensional domain. Such a line Dirac measure causes different types of solution singularities in the neighborhood of the line fracture. We establish new regularity results for the solution in a class of weighted Sobolev spaces and propose finite element algorithms that approximate the singular solution at the optimal convergence rate. Numerical tests are presented to justify the theoretical findings.
+    </details>
+
+
+6. [**From Low to High -- and Lower -- Optimal Regularity of the SMGTJ Equation with Dirichlet and Neumann Boundary Control, and with Point Control, via Explicit Representation Formulae**](https://www.aimsciences.org/data/article/export-pdf?id=620c965e2d80b75aa4a24bb7)
+    
+    with Roberto Triggiani, <em>Evolution Equations and Control Theory</em>, (2022) 11(6): 1967-1996. 
+
+    <details>
+    <summary>Abstract</summary>
+    We consider the linear third order (in time) PDE known as the SMGTJ-equation, defined on a bounded domain, under the action of either Dirichlet or Neumann boundary control g. Optimal interior and boundary regularity results were given in [1], after [41], when g ∈ L2(0, T ; L2(Γ)) ≡ L2(Σ), which, moreover, in the canonical case γ = 0, were expressed by the well-known explicit representation formulae of the wave equation in terms of cosine/sine operators [20], [17], [25, Vol II]. The interior or boundary regularity theory is however the same, whether γ = 0 or 0 6 = γ ∈ L∞(Ω), since γ 6 = 0 is responsible only for lower order terms. Here we exploit such cosine operator based-explicit representation formulae to provide optimal interior and boundary regularity results with g “smoother” than L2(Σ), qualitatively by one unit, two units, etc. in the Dirichlet boundary case. To this end, we invoke the corresponding results for wave equations, as in [17]. Similarly for the Neumann boundary case, by invoking the corresponding results for the wave equation as in [23], [24], [37] for control smoother than L2(0, T ; L2(Γ)), and [44] for control less regular in space than L2(Γ). In addition, we provide optimal interior and boundary regularity results when the SMGTJ equation is subject to interior point control, by invoking the corresponding wave equations results [42], [25, Section 9.8.2].
+    </details>
+
+
+7. [**Abstract representation of the SMGTJ equation under rough boundary controls: optimal interior regularity**](https://onlinelibrary.wiley.com/doi/full/10.1002/mma.8619)
+    
+    with Irena Lasiecka and Roberto Triggiani, <em>Mathematical Methods in the Applied Sciences</em>, (2022) doi:10.1002/mma.8619.
+
+    <details>
+    <summary>Abstract</summary>
+    We consider the linearized third order SMGTJ equation defined on a sufficiently smooth boundary domain in ℝ 3 and subject to either Dirichlet or Neumann rough boundary control. Filling a void in the literature, we present a direct general 3 × 3 system approach based on the vector state solution {position, velocity, acceleration}. It yields, in both cases, an explicit representation formula: input → solution, based on the s.c. group generator of the boundary homogeneous problem and corresponding elliptic Dirichlet or Neumann map. It is close to, but also distinctly and critically different from, the abstract variation of parameter formula that arises in more traditional boundary control problems for PDEs L-T.6. Through a duality argument based on this explicit formula, we provide a new proof of the optimal regularity theory: boundary control → {position, velocity, acceleration} with low regularity boundary control, square integrable in time and space.
+    </details>
+
+8. [**Luenberger Compensentor Theory for Heat-Kelvin-Voigt-damped-Structure Interaction Models with Interface/Boundary Feedback Controls**]()
+    
+    with Roberto Triggiani, <em>submitted</em>.
+
+    <details>
+    <summary>Abstract</summary>
+    An optimal, complete, continuous theory of the Luenberger dynamic compensator (or state estimator or state observer) is obtained for the recently studied class of heat-structure interaction PDE-models, with structure subject to high Kelvin-Voigt damping, and feedback control exercised either at the interface between the two media or else at the external boundary of the physical domain. It is a first, full investigation that opens the door to numerous and far reaching subsequent extensions, to include physically relevant fluid-structure models, with wave- or plate-structures, possibly without Kelvin-Voigt damping, as explicitly noted in the text, all the way to achieving the ultimate discrete numerical theory, so critical in applications. While the general setting is functional analytic, delicate PDE-energy estimates dictate how to define the interface/boundary feedback control in each case.
+    </details>
 
 ***
 
