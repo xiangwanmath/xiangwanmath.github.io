@@ -4,7 +4,11 @@ title: "Research"
 permalink: /research
 ---
 
-
+#### Research Summary
+My research is in Applied Mathematics, in particular, centered around nonlinear Partial Differential Equations (PDEs). My previous research involves studying 
+	* well-posedness and long-term behavior of parabolic and hyperbolic PDE systems; 
+	* optimal control problems associated with PDE systems; 
+	* numerical analysis.
 
 #### Publication
 
@@ -87,3 +91,5 @@ permalink: /research
 ***
 
 #### Student Research
+
+Spring 2023: Finite Differenence Method and Finite Element Method
