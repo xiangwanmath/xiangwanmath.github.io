@@ -11,14 +11,12 @@ Loyola has established programs that aim on promoting undergraduate research. Ch
 ### Student Research Advising
 
 #### 2023 - 2024
-
 - _Mulcahy Scholar_: Cecily Bartsch
 
 #### 2022 - 2023
 - _Provost Fellowship_: Cecily Bartsch
 - _WISER program_: Amanda Newton
 - _Summer USRE_: Miguel Diaz; Elizabeth Joseph
-
 - _Spring 2023 Reading Group_:
   - Cecily Bartsch
   - Amanda Newton
@@ -28,6 +26,5 @@ Loyola has established programs that aim on promoting undergraduate research. Ch
   </details>
     
 ### External Opportunities
-
 - [NSF Graduate Research Fellowship Program (GRFP)](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp)
 - 
