@@ -22,4 +22,9 @@ Loyola has established programs that aim on promoting undergraduate research. Ch
 
 - _Summer USRE_: Miguel Diaz; Elizabeth Joseph
 
-- _Spring 2023 Reading Group_: Cecily Bartsch; Amanda Newton
+- <details>
+  <summary>_Spring 2023 Reading Group_:</summary>
+  The topic is _Finite Difference Method_
+  </details>
+    - Cecily Bartsch
+    - Amanda Newton
