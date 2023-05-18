@@ -90,6 +90,8 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 
 ***
 
-#### Student Research
+#### Student Research Advising
 
-Spring 2023: Finite Differenence Method and Finite Element Method
+###### Spring 2023: Finite Differenence Method and Finite Element Method
+- Amanda Newton
+
