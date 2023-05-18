@@ -12,14 +12,14 @@ Loyola has established programs that aim on promoting undergraduate research. Ch
 
 #### 2023 - 2024
 
-- Mulcahy Scholar: Cecily Bartsch
+- _Mulcahy Scholar_: Cecily Bartsch
 
 #### 2022 - 2023
 
-- Provost Fellowship: Cecily Bartsch
+- _Provost Fellowship_: Cecily Bartsch
 
-- WISER program: Amanda Newton
+- _WISER program_: Amanda Newton
 
-- Summer USRE: Miguel Diaz; Elizabeth Joseph
+- _Summer USRE_: Miguel Diaz; Elizabeth Joseph
 
-- Spring 2023 Reading Group: Cecily Bartsch; Amanda Newton
+- _Spring 2023 Reading Group_: Cecily Bartsch; Amanda Newton
