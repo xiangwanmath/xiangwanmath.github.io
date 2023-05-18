@@ -6,7 +6,7 @@ permalink: /student_research
 
 Interested in doing research with me? Feel free to send me an email or stop by during my open office hours. 
 
-Loyola has established programs that aim on promoting undergraduate research. Check the [LUROP](https://www.luc.edu/celts/programs/undergraduateresearch/) out.
+Loyola has established programs that aim on promoting undergraduate research. Check out the [LUROP website](https://www.luc.edu/celts/programs/undergraduateresearch/).
 
 ### Student Research Advising
 
