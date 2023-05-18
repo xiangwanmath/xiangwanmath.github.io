@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Research"
-permalink: /research
+title: "Student_Research"
+permalink: /student_research
 ---
 
 Interested in doing research with me? Feel free to send me an email or stop by during my open office hours. 
