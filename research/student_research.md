@@ -17,7 +17,6 @@ Loyola has established programs that aim on promoting undergraduate research. Ch
 #### 2022 - 2023
 
 - _Provost Fellowship_: Cecily Bartsch
-
 - _WISER program_: Amanda Newton
 
 - _Summer USRE_: Miguel Diaz; Elizabeth Joseph
@@ -30,3 +29,7 @@ Loyola has established programs that aim on promoting undergraduate research. Ch
   The topic is _Finite Difference Method_.
   </details>
     
+### External Opportunities
+
+- [NSF Graduate Research Fellowship Program (GRFP)](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp)
+- 
