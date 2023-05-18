@@ -2,7 +2,7 @@ url: "https://xiangwanmath.github.io" # the base hostname & protocol for your si
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 title: "Xiang Wan"
-subtitle: "Departmant of Mathematics and Statistics, Loyola University Chicago"
+#subtitle: "Departmant of Mathematics and Statistics, Loyola University Chicago"
 
 #author: "Sean Wan"
 description: "Last Update: 05/19/2023"
