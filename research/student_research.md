@@ -22,7 +22,7 @@ Loyola has established programs that aim on promoting undergraduate research. Ch
   - Amanda Newton
   <details>
   <summary>Details</summary>
-  The topic is _Finite Difference Method_.
+  The topic is Finite Difference Method.
   </details>
     
 ### External Opportunities
