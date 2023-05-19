@@ -19,7 +19,7 @@ Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for en
   - [MATLAB at LUC](https://www.luc.edu/its/services/loyolasoftware/matlab/): free to Loyola community; powerful computing language; industial and academic standard.
 
     <details>
-    <summary> Tutorials </summary>
+    <summary> MATLAB Tutorials </summary>
     <ul>
       <li>First item</li>
       <li>Second item</li>
