@@ -16,3 +16,6 @@ Some useful free online tools:
 - [MathCha](https://www.mathcha.io/): an tool for more sophisticated LaTeX conversions, including large formulas, pictures, tables, etc.
 - Local Installation: [Tex Live](https://www.tug.org/texlive/). Check out this explanation of [levels of TeX](https://tug.org/levels.html).
 - [TikZ and PGF](https://texample.net//tikz/): advanced graphing packages for LaTeX
+- [Online LaTeX table generator](https://www.tablesgenerator.com/#)
+- [Poster with LaTeX](https://www.overleaf.com/learn/latex/Posters)
+- 
