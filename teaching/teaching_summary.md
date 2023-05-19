@@ -15,7 +15,7 @@ Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for en
 + #### [Past teaching](/past_teaching.md)
 
 + #### Math at LUC and beyond
-  - [Problem of the Month](https://www.luc.edu/math/problemofthemonth/)
+  - [Intro-level Course Resources](https://www.luc.edu/math/course-resources.shtml) for Math 100, 117, 118, 131, 132, 161: Common Syllabi; past Finals, etc.
   - [MATLAB at LUC](https://www.luc.edu/its/services/loyolasoftware/matlab/): free to Loyola community; powerful computing language; industial and academic standard.
 
     <details>
@@ -29,7 +29,12 @@ Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for en
     </details>
 
   - [Wolfram Mathematica](https://www.luc.edu/math/courseresources/wolframmathematica/): free to Loyola community; the computing language behind [WolframAlpha](https://www.wolframalpha.com/)
-  -  
+  - [Problem of the Month at Loyola](https://www.luc.edu/math/problemofthemonth/)
+  - [Mathematics Prize Exam at Columbia University](https://www.math.columbia.edu/~desilva/prize.html)
+  - [MIT Integration Bee](https://math.mit.edu/~yyao1/integrationbee.html)
+  - 
+
+
 + #### Useful Learning Modules
   - [A short review of PDE textbooks](https://www.math.hmc.edu/~ajb/PCMI/PDE_texts.html)
   - [Desmos](https://www.desmos.com/): powerful graphing website
