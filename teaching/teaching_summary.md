@@ -18,7 +18,15 @@ Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for en
   - [Problem of the Month](https://www.luc.edu/math/problemofthemonth/)
   - [MATLAB at LUC](https://www.luc.edu/its/services/loyolasoftware/matlab/): free to Loyola community; powerful computing language; industial and academic standard.
 
-    df
+    <details>
+    <summary> Tutorials </summary>
+    <ul>
+      <li>First item</li>
+      <li>Second item</li>
+      <li>Third item</li>
+      <li>Fourth item</li>
+    </ul>
+    </details>
 
   - [Wolfram Mathematica](https://www.luc.edu/math/courseresources/wolframmathematica/): free to Loyola community; the computing language behind [WolframAlpha](https://www.wolframalpha.com/)
   -  
