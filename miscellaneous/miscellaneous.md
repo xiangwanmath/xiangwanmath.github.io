@@ -11,7 +11,9 @@ Follow [this short tutorial](https://www.overleaf.com/learn/latex/Tutorials) if 
 
 Some useful free online tools:
 
-- [Overleaf](https://www.overleaf.com/): online LaTeX environment, allowing Regular expression (RegEx) in advanced search. [Learn and test RegEx](https://regexr.com/); [RegEx Puzzles](https://regexcrossword.com/)
+- [Overleaf](https://www.overleaf.com/): online LaTeX environment, allowing Regular expression (RegEx) in advanced search. 
+  - [Learn and test RegEx](https://regexr.com/); 
+  - [RegEx Puzzles](https://regexcrossword.com/)
 - [Hand Sketch to LaTeX]([https://www.overleaf.com/](https://webdemo.myscript.com/views/math/index.html)): an online [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) tool that converts math symbols by drawing into LaTeX code
 - [MathCha](https://www.mathcha.io/): an tool for more sophisticated LaTeX conversions, including large formulas, pictures, tables, etc.
 - Local Installation: [Tex Live](https://www.tug.org/texlive/). Check out this explanation of [levels of TeX](https://tug.org/levels.html).
