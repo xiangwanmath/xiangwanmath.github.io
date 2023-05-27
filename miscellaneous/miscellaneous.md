@@ -25,12 +25,12 @@ Some useful free online tools:
 
 #### ML
   - [A well illustrated ML algorithms](https://illustrated-machine-learning.github.io/index.html#/machine-learning/linear-algorithms#linear-regression)
-  - 
+  
 
 #### AI
   - [ChatGPT](https://chat.openai.com/chat)
   - [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F): AI images generator via words
   - [DALL E 2](https://openai.com/product/dall-e-2): another image generator by OpenAI
   - [Logo maker](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
-  - 
-  - 
+  
+  
