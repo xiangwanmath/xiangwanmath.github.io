@@ -7,7 +7,7 @@ permalink: /miscellaneous
 #### LaTeX Tutorials
 LaTeX is a typesetting system commonly used for document preparation, particularly in fields like mathematics, science, and academia. It provides a way to create high-quality documents with complex mathematical equations, technical diagrams, and structured layouts. 
 
-Follow [this short tutorial](https://www.overleaf.com/learn/latex/Tutorials) if you are new to LaTeX. It takes 1-2 hours.
+###### For beginners: follow [this short tutorial](https://www.overleaf.com/learn/latex/Tutorials) if you are new to LaTeX. It takes 1-2 hours.
 
 Some useful free online tools:
 
