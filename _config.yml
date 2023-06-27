@@ -4,7 +4,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 title: "Xiang Wan"
 #subtitle: "Departmant of Mathematics and Statistics, Loyola University Chicago"
 
-#author: "Sean Wan"
+#author: "..."
 description: "Last Update: 06/27/2023."
 permalink: /:title/
 lang: "en"
@@ -14,7 +14,7 @@ date_format: "%B %d, %Y"
 # Layout
 show_social: true         # show footer
 show_excerpts: false       # show article excerpts on the home page
-show_frame: false           # adds a gray frame to the site
+show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 
 # Menu
