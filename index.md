@@ -3,6 +3,7 @@ layout: page
 title: ""
 ---
 
+<link rel="shortcut icon" type="image/png" href="./pic/favicon.ico?">
 
 <img style="float: right; margin:2% 0%; margin-top: 0" src="/pic/XWan_HC.jpeg" alt = "Xiang Wan Profile" width = "40%">
 
