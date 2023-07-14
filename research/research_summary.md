@@ -81,7 +81,7 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 
 8. [**Luenberger Compensentor Theory for Heat-Kelvin-Voigt-damped-Structure Interaction Models with Interface/Boundary Feedback Controls**]()
     
-    with Roberto Triggiani, <em>Open Mathematics</em>, vol. 21, no. 1, 2023, pp. 20220589. [https://doi.org/10.1515/math-2022-0589]
+    with Roberto Triggiani, <em>Open Mathematics</em>, vol. 21, no. 1, 2023, pp. 20220589. [](https://doi.org/10.1515/math-2022-0589)
 
     <details>
     <summary>Abstract</summary>
