@@ -36,3 +36,8 @@ Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for en
     </details>
 
   - [Wolfram Mathematica](https://www.luc.edu/math/courseresources/wolframmathematica/): free to Loyola community; the computing language behind [WolframAlpha](https://www.wolframalpha.com/)
+
+
+#### [Physics Lecture Notes (Michael Fowler, University of Virginia)](https://galileo.phys.virginia.edu/~mf1i/home.html)
+
+
