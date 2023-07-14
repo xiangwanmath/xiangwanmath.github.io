@@ -36,9 +36,3 @@ Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for en
     </details>
 
   - [Wolfram Mathematica](https://www.luc.edu/math/courseresources/wolframmathematica/): free to Loyola community; the computing language behind [WolframAlpha](https://www.wolframalpha.com/)
-
-+ #### Have some time to kill?
-  - [Problem of the Month at Loyola](https://www.luc.edu/math/problemofthemonth/)
-  - [Problem of the Month by MAA](http://sections.maa.org/metrony/problemofthemonth.html)
-  - [Mathematics Prize Exam at Columbia University](https://www.math.columbia.edu/~desilva/prize.html)
-  - [MIT Integration Bee](https://math.mit.edu/~yyao1/integrationbee.html)
