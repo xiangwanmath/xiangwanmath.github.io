@@ -92,6 +92,8 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 
 #### [Student Research Advising](/student_research.md)
 
+***
+
 #### Cool stuffs
 - [VisualPDE](https://visualpde.com/): real time, interactive simulation of famous PDEs
 - 
