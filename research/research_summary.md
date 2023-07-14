@@ -79,14 +79,27 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
     We consider the linearized third order SMGTJ equation defined on a sufficiently smooth boundary domain in ℝ 3 and subject to either Dirichlet or Neumann rough boundary control. Filling a void in the literature, we present a direct general 3 × 3 system approach based on the vector state solution {position, velocity, acceleration}. It yields, in both cases, an explicit representation formula: input → solution, based on the s.c. group generator of the boundary homogeneous problem and corresponding elliptic Dirichlet or Neumann map. It is close to, but also distinctly and critically different from, the abstract variation of parameter formula that arises in more traditional boundary control problems for PDEs L-T.6. Through a duality argument based on this explicit formula, we provide a new proof of the optimal regularity theory: boundary control → {position, velocity, acceleration} with low regularity boundary control, square integrable in time and space.
     </details>
 
-8. [**Luenberger Compensentor Theory for Heat-Kelvin-Voigt-damped-Structure Interaction Models with Interface/Boundary Feedback Controls**]()
+8. [**Luenberger Compensentor Theory for Heat-Kelvin-Voigt-damped-Structure Interaction Models with Interface/Boundary Feedback Controls**](https://www.degruyter.com/document/doi/10.1515/math-2022-0589/html)
     
-    with Roberto Triggiani, <em>Open Mathematics</em>, vol. 21, no. 1, 2023, pp. 20220589. [https://doi.org/10.1515/math-2022-0589](https://doi.org/10.1515/math-2022-0589)
+    with Roberto Triggiani, <em>Open Mathematics</em>, vol. 21, no. 1, 2023, pp. 20220589.
 
     <details>
     <summary>Abstract</summary>
-    An optimal, complete, continuous theory of the Luenberger dynamic compensator (or state estimator or state observer) is obtained for the recently studied class of heat-structure interaction PDE-models, with structure subject to high Kelvin-Voigt damping, and feedback control exercised either at the interface between the two media or else at the external boundary of the physical domain. It is a first, full investigation that opens the door to numerous and far reaching subsequent extensions, to include physically relevant fluid-structure models, with wave- or plate-structures, possibly without Kelvin-Voigt damping, as explicitly noted in the text, all the way to achieving the ultimate discrete numerical theory, so critical in applications. While the general setting is functional analytic, delicate PDE-energy estimates dictate how to define the interface/boundary feedback control in each case.
+    An optimal, complete, continuous theory of the Luenberger dynamic compensator (or state estimator or state observer) is obtained for the recently studied class of heat-structure interaction PDE-models, with structure subject to high Kelvin-Voigt damping, and feedback control exercised either at the interface between the two media or else at the external boundary of the physical domain in three different settings. It is a first, full investigation that opens the door to numerous and far reaching subsequent work. They will include physically relevant \emph{fluid}-structure models, with wave- or plate-structures, possibly without Kelvin-Voigt damping, as explicitly noted in the text, all the way to achieving the ultimate discrete numerical theory, so critical in applications. While the general setting is functional analytic, delicate PDE-energy estimates dictate how to define the interface/boundary feedback control in each case.
     </details>
+
+9. [**A heat-structure interaction model with (formal) `square-root' damping: analyticity and uniform stability**]()
+    
+    with Roberto Triggiani, <em>Quantum Studies: Mathematics and Foundations</em>, 2023, accepted.
+
+    <details>
+    <summary>Abstract</summary>
+    In Part I, the present paper studies a homogeneous, uncontrolled 2D or 3D heat-structure interaction model, where the structure is modeled by an elastic system with (formally) 'square-root' damping, and where the two components are subject to high-level coupled conditions at the interface between the two media. Physically the model occupies a doughnut-like  domain: the heat (fluid) occupies the exterior domain while the elastic structure occupies an interior subdomain.  The novelty over past literature is the (formal) 'square root' damping of the structure versus either no damping at all or else Kelvin-Voigt (viscoelastic) damping. It is shown that such homogeneous (uncontrolled) model generates a strongly continuous contraction semigroup on a natural energy space, which moreover is analytic and uniformly stable. Next, the paper provides a characterization of the domain of a fractional power related to the generator. This result is then used to study, in Part II, the corresponding non-homogeneous model subject to control action at the interface between the two media and provide for it an optimal regularity result.  The choice of the heat component over the (linearized) Navier-Stokes fluid component is only a preliminary step for initial simplicity. The fluid-model introduces serious conceptual and technical difficulties. How to overcome them has been accomplished in past literature and will guide a subsequent publication.
+    </details>
+    
+\item 
+	 (with R. Triggiani),
+	\emph{Quantum Studies: Mathematics and Foundations}, 2023, accepted.
 
 ***
 
