@@ -32,5 +32,10 @@ Some useful free online tools:
   - [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F): AI images generator via words
   - [DALL E 2](https://openai.com/product/dall-e-2): another image generator by OpenAI
   - [Logo maker](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
-  
-  
+
+#### Have some time to kill?
+  - [Problem of the Month at Loyola](https://www.luc.edu/math/problemofthemonth/)
+  - [Problem of the Month by MAA](http://sections.maa.org/metrony/problemofthemonth.html)
+  - [Mathematics Prize Exam at Columbia University](https://www.math.columbia.edu/~desilva/prize.html)
+  - [MIT Integration Bee](https://math.mit.edu/~yyao1/integrationbee.html)
+
