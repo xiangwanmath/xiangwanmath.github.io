@@ -28,5 +28,6 @@ Loyola has established programs that aim on promoting undergraduate research. Ch
   </details>
     
 ### External Opportunities
+- [Science Undergraduate Laboratory Internships](https://science.osti.gov/wdts/suli)
 - [NSF Graduate Research Fellowship Program (GRFP)](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp)
 - 
