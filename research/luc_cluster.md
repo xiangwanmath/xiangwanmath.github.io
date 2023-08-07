@@ -9,13 +9,9 @@ permalink: /luc_cluster
 
 (Campus or VPN network required)
 
-
-
-
 **Students users need**
  - accounts set up on the server(s)
  - to gain authorization from ITS, even though they are on campus
-
 
 #### 1.  [How to Access Cluster for First Time](\luc_cluster.pdf)
 
