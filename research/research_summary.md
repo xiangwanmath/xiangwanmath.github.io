@@ -103,6 +103,10 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 
 ***
 
+#### [LUC ITS Computer cluster tips](/luc_cluster.md)
+
+***
+
 #### Cool stuffs
 - [VisualPDE](https://visualpde.com/): real time, interactive simulation of famous PDEs
 - 
