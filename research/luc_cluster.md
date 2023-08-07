@@ -13,7 +13,7 @@ permalink: /luc_cluster
  - accounts set up on the server(s)
  - to gain authorization from ITS, even though they are on campus
 
-#### 1.  [How to Access Cluster for First Time](./ClusterAccessInstructions.pdf)
+#### 1.  [How to Access Cluster for First Time](https://github.com/xiangwanmath/xiangwanmath.github.io/blob/f6e1bee1e7df99f6d981fa8f5f3a5866a01992f9/research/ClusterAccessInstructions.pdf)
 
 #### 2. [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 
