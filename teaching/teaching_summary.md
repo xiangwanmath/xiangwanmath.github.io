@@ -8,9 +8,9 @@ permalink: /teaching
 
 Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for enrolled students.
 
-#### Fall 2023
-  - Math 131: Applied Calculus I
-  - Math 365/465: Introduction to Partial Differential Equations [(Tentative Syllabus)](https://loyolauniversitychicago-my.sharepoint.com/:b:/g/personal/xwan1_luc_edu/EYz3iYUf-zlDub0LbNhOcmEB93mb8wHco7teoweuGZYKMw?e=QxcZxo)
+#### Spring 2024
+  - Math 215: Object-Oriented Programming with Mathematics
+  - Math 356/456: Mathematical Modeling
 
 #### [Past teaching](/past_teaching.md)
 
