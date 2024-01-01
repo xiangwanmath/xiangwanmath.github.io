@@ -12,16 +12,18 @@ LaTeX is a typesetting system commonly used for document preparation, particular
 Some useful free online tools:
 
 - [Overleaf](https://www.overleaf.com/): online LaTeX environment, allowing Regular expression (RegEx) in advanced search. 
-  - [Learn and test RegEx](https://regexr.com/)
-  - [RegEx Puzzles](https://regexcrossword.com/)
-- [A short list of common math symbols](https://12a9b868-6189-4c2c-b0b4-46a0d794deb8.filesusr.com/ugd/7c0a02_3dab6e1d268349f6b023b3737b7ab96e.pdf)
-- For students: [Homework template](https://www.overleaf.com/read/xspntwpwyrqt)
-- [Hand Sketch to LaTeX]([https://www.overleaf.com/](https://webdemo.myscript.com/views/math/index.html)): an online [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) tool that converts math symbols by drawing into LaTeX code
+- [Learn and test RegEx](https://regexr.com/)
+- [RegEx Puzzles](https://regexcrossword.com/)
+- [A short list of LaTeX syntaxes of common math symbols](https://12a9b868-6189-4c2c-b0b4-46a0d794deb8.filesusr.com/ugd/7c0a02_3dab6e1d268349f6b023b3737b7ab96e.pdf)
+- [Homework template (for students)](https://www.overleaf.com/read/xspntwpwyrqt)
+- [Convert hand-sketch to LaTeX]([https://www.overleaf.com/](https://webdemo.myscript.com/views/math/index.html)): an online [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) tool that converts math symbols by drawing into LaTeX code
 - [MathCha](https://www.mathcha.io/): an tool for more sophisticated LaTeX conversions, including large formulas, pictures, tables, etc.
 - Local Installation: [Tex Live](https://www.tug.org/texlive/). Check out this explanation of [levels of TeX](https://tug.org/levels.html).
 - [TikZ and PGF](https://texample.net//tikz/): advanced graphing packages for LaTeX
 - [Online LaTeX table generator](https://www.tablesgenerator.com/#)
+- [Beamer](https://www.overleaf.com/learn/latex/Beamer): presentation slides via LaTeX
 - [Poster with LaTeX](https://www.overleaf.com/learn/latex/Posters)
+
 
 #### ML
   - [A well illustrated ML algorithms](https://illustrated-machine-learning.github.io/index.html#/machine-learning/linear-algorithms#linear-regression)
