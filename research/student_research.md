@@ -10,23 +10,19 @@ Loyola has established programs that aim on promoting undergraduate research. Ch
 
 ### Student Research Advising
 
-#### 2023 - 2024
-- _Mulcahy Scholar_: Cecily Bartsch
+<!---#### 2023 - 2024--->
+- Amanda Newton: Jan. 2023 --
+- Cecily Bartsch: Jan. 2023 --
+- Miguel Diaz: Summer 2023
+- Elizabeth Joseph: Summer 2023
 
-#### 2022 - 2023
-- _Provost Fellowship_: Cecily Bartsch
-- _WISER program_: Amanda Newton
-- _Summer USRE_:
-  - Miguel Diaz
-  - Elizabeth Joseph
-- _Spring 2023 Reading Group_:
-  - Cecily Bartsch
-  - Amanda Newton
+<!---
   <details>
   <summary>Details</summary>
   The topic is Finite Difference Method.
   </details>
-    
+---> 
+
 ### External Opportunities
 - [Science Undergraduate Laboratory Internships](https://science.osti.gov/wdts/suli)
 - [NSF Graduate Research Fellowship Program (GRFP)](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp)
