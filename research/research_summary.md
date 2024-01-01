@@ -117,5 +117,6 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 ***
 
 #### Cool stuffs
+- [Slope Field plotter](https://aeb019.hosted.uark.edu/dfield.html): for 1D ODEs
+- [Phase Plane plotter](https://aeb019.hosted.uark.edu/pplane.html): for 2D ODE systems
 - [VisualPDE](https://visualpde.com/): real time, interactive simulation of famous PDEs
-- 
