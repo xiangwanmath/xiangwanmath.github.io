@@ -88,7 +88,7 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
     An optimal, complete, continuous theory of the Luenberger dynamic compensator (or state estimator or state observer) is obtained for the recently studied class of heat-structure interaction PDE-models, with structure subject to high Kelvin-Voigt damping, and feedback control exercised either at the interface between the two media or else at the external boundary of the physical domain in three different settings. It is a first, full investigation that opens the door to numerous and far reaching subsequent work. They will include physically relevant \emph{fluid}-structure models, with wave- or plate-structures, possibly without Kelvin-Voigt damping, as explicitly noted in the text, all the way to achieving the ultimate discrete numerical theory, so critical in applications. While the general setting is functional analytic, delicate PDE-energy estimates dictate how to define the interface/boundary feedback control in each case.
     </details>
 
-9. [**A heat-structure interaction model with (formal) `square-root' damping: analyticity and uniform stability**]()
+9. **A heat-structure interaction model with (formal) 'square-root' damping: analyticity and uniform stability**
     
     with Roberto Triggiani, <em>Quantum Studies: Mathematics and Foundations</em>, (2023), accepted.
 
@@ -97,6 +97,15 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
     In Part I, the present paper studies a homogeneous, uncontrolled 2D or 3D heat-structure interaction model, where the structure is modeled by an elastic system with (formally) 'square-root' damping, and where the two components are subject to high-level coupled conditions at the interface between the two media. Physically the model occupies a doughnut-like  domain: the heat (fluid) occupies the exterior domain while the elastic structure occupies an interior subdomain.  The novelty over past literature is the (formal) 'square root' damping of the structure versus either no damping at all or else Kelvin-Voigt (viscoelastic) damping. It is shown that such homogeneous (uncontrolled) model generates a strongly continuous contraction semigroup on a natural energy space, which moreover is analytic and uniformly stable. Next, the paper provides a characterization of the domain of a fractional power related to the generator. This result is then used to study, in Part II, the corresponding non-homogeneous model subject to control action at the interface between the two media and provide for it an optimal regularity result.  The choice of the heat component over the (linearized) Navier-Stokes fluid component is only a preliminary step for initial simplicity. The fluid-model introduces serious conceptual and technical difficulties. How to overcome them has been accomplished in past literature and will guide a subsequent publication.
     </details>
 
+10. **Development of a Universal Method for Vibrational Analysis of the Terminal Alkyne C≡C Stretch**
+    
+    with Kristina Streu, Sara Hunsberger, Jeanette Patel, and Clyde Daly Jr., <em>submitted</em>
+
+    <details>
+    <summary>Abstract</summary>
+    The terminal alkyne C≡C stretch has a large Raman scattering cross section in the “silent” region for biomolecules. This has led to many Raman tag and probe studies using this moiety to study biomolecular systems. Computational investigation of these systems is vital to aid in the interpretation of these results. In this work, we develop a method for computing terminal alkyne vibrational frequencies and isotropic transition polarizabilities which can easily and accurately be applied to any terminal alkyne molecule. We apply the discrete variable representation method to a localized version of the C≡C stretch normal mode. The errors of (1) vibrational localization to the terminal alkyne moiety, (2) anharmonic normal mode isolation, and (3) discretization of the Born-Oppenheimer potential energy surface are quantified and found to be generally small and cancel each other. This results in a method with low error compared to other anharmonic vibrational methods like VPT2 and to experiment. Several density functionals are tested using the method, and TPSS-D3, an inexpensive nonempirical density functional with dispersion corrections, is found to perform surprisingly well. Diffuse basis functions are found to be important for the accuracy of computed frequencies. Finally, the computation of vibrational properties like isotropic transition polarizabilities and the universality of the localized normal mode for terminal alkynes are demonstrated.
+    </details>
+    
 ***
 
 #### [Student Research Advising](/student_research.md)
