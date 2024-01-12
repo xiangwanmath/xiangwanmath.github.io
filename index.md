@@ -30,6 +30,11 @@ xwan1 [AT] luc [DOT] edu
 Chicago, IL,
 60660
 
+1. First item  [< two spaces for the linebreak]
+◦ subitem1  [< two spaces for the linebreak]
+◦ subitem2
+2. Second item
+
 
 ***
 
