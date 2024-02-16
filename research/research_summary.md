@@ -99,7 +99,7 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 
 10. **Development of a Universal Method for Vibrational Analysis of the Terminal Alkyne C≡C Stretch**
     
-    with Kristina Streu, Sara Hunsberger, Jeanette Patel, and Clyde Daly Jr., <em>submitted</em>
+    with Kristina Streu, Sara Hunsberger, Jeanette Patel, and Clyde Daly Jr., <em>Journal of Chemical Physics</em>,	21 February 2024; 160 (7): 074106. doi:10.1063/5.0185580
 
     <details>
     <summary>Abstract</summary>
