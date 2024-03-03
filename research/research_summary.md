@@ -88,9 +88,9 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
     An optimal, complete, continuous theory of the Luenberger dynamic compensator (or state estimator or state observer) is obtained for the recently studied class of heat-structure interaction PDE-models, with structure subject to high Kelvin-Voigt damping, and feedback control exercised either at the interface between the two media or else at the external boundary of the physical domain in three different settings. It is a first, full investigation that opens the door to numerous and far reaching subsequent work. They will include physically relevant \emph{fluid}-structure models, with wave- or plate-structures, possibly without Kelvin-Voigt damping, as explicitly noted in the text, all the way to achieving the ultimate discrete numerical theory, so critical in applications. While the general setting is functional analytic, delicate PDE-energy estimates dictate how to define the interface/boundary feedback control in each case.
     </details>
 
-9. **A heat-structure interaction model with (formal) 'square-root' damping: analyticity and uniform stability**
+9. [**A heat-structure interaction model with (formal) 'square-root' damping: analyticity and uniform stability**](https://link.springer.com/article/10.1007/s40509-024-00320-z)
     
-    with Roberto Triggiani, <em>Quantum Studies: Mathematics and Foundations</em>, (2023), accepted.
+    with Roberto Triggiani, <em>Quantum Studies: Mathematics and Foundations</em>, (2024): 1-30.
 
     <details>
     <summary>Abstract</summary>
