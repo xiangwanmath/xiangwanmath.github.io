@@ -90,7 +90,7 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 
 9. [**A heat-structure interaction model with (formal) 'square-root' damping: analyticity and uniform stability**](https://link.springer.com/article/10.1007/s40509-024-00320-z)
     
-    with Roberto Triggiani, <em>Quantum Studies: Mathematics and Foundations</em>, (2024): 1-30.
+    with Roberto Triggiani, <em>Quantum Studies: Mathematics and Foundations</em> **11**, 117–146 (2024).
 
     <details>
     <summary>Abstract</summary>
