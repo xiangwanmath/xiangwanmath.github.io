@@ -20,7 +20,12 @@ xwan1 [AT] luc [DOT] edu
 776-508-3554 
 
 **_Office Hours, Spring 2024:_**
-- TBD
+- Math 215
+  - Tuesdays 4:30 - 5:30pm
+  - Fridays 1:30 - 2:30pm
+- Math 356
+  - Mondays 11:00am - 12:30pm
+  - Fridays 2:30pm - 3:30pm
 
 **_Departmental Webpage:_**
 [<u>https://www.luc.edu/math/wanxiang.shtml/</u>](https://www.luc.edu/math/wanxiang.shtml)
