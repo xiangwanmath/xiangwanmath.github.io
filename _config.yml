@@ -22,7 +22,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.md"}
   - {title: "Research", file: "research_summary.md"}
   - {title: "Teaching", file: "teaching_summary.md"}
-  - {title: "SIAM Student Chapter", file: "SIAM_Chapter.md"}
   - {title: "Miscellaneous", file: "miscellaneous.md"}
   # - {url: "/CV.pdf", title: "CV"}
   # - {title: "another1", file: "another1.md"}
