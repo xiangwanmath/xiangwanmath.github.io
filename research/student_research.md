@@ -13,8 +13,8 @@ Loyola has established programs that aim on promoting undergraduate research. Ch
 <!---#### 2023 - 2024--->
 - Babel Barm: Summer. 2024 
 - Avery Boland: Summer. 2024  
-- Joseph Dingillo: Sep. 2023  
-- Amanda Newton: Jan. 2023 
+- Joseph Dingillo: Sep. 2023 -
+- Amanda Newton: Jan. 2023 -
 - Cecily Bartsch: Jan. 2023 -
 - Miguel Diaz: Summer 2023
 - Elizabeth Joseph: Summer 2023
