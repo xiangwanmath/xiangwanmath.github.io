@@ -40,4 +40,7 @@ Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for en
 
 #### [Physics Lecture Notes (Michael Fowler, University of Virginia)](https://galileo.phys.virginia.edu/~mf1i/home.html)
 
+#### Some good read
 
+  - [The most common errors in undergraduate mathematics](https://math.vanderbilt.edu/schectex/commerrs/)
+  - [Why study Calculus?](https://math.vanderbilt.edu/schectex/courses/whystudy.html)
