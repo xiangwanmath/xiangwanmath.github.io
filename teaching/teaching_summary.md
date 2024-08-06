@@ -8,9 +8,8 @@ permalink: /teaching
 
 Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for enrolled students.
 
-#### Spring 2024
-  - Math 215: Object-Oriented Programming with Mathematics
-  - Math 356/456: Mathematical Modeling
+#### Fall 2024
+  - Math 162: Calculus II
 
 #### [Past teaching](/past_teaching.md)
 
