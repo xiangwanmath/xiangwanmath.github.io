@@ -11,7 +11,7 @@ Loyola has established programs that aim on promoting undergraduate research. Ch
 ### Student Research Advising
 
 <!---#### 2023 - 2024--->
-- Babel Barm: Summer. 2024 
+- [Babel Barm](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Barm_USRE_2024.ipynb): Summer. 2024 
 - [Avery Boland](https://github.com/averyb197/Real-USRE): Summer. 2024  
 - Joseph Dingillo: Sep. 2023 -
 - Amanda Newton: Jan. 2023 -
