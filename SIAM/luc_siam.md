@@ -11,6 +11,8 @@ permalink: /SIAM
 
 ## This is the website for LUC SIAM Student Chapter.
 
+Officers for Academic Year 2024-2025 (click to email them)
+
 * President: [Lily Ingram](mailto:lingram1@luc.edu)
 
 * Vice president: [Anaum Chaudhry](achaudhry10@luc.edu)
