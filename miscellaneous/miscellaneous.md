@@ -11,7 +11,7 @@ LaTeX is a typesetting system commonly used for document preparation, particular
 
 Some useful free online tools:
 
-- [Overleaf](https://www.overleaf.com/): online LaTeX environment, allowing Regular expression (RegEx) in advanced search.
+- [Overleaf](https://www.overleaf.com/): online LaTeX environment, allowing Regular expression (RegEx) in advanced search. Introduction Slides ([part 1](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)); [part 2](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_2)); [part 3](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_3)))
 - A [template](https://www.overleaf.com/read/xdbqtdgyzdwk#513518) with simple examples I made. **Highly recommended for beginner to go over!**
 - [Learn and test RegEx](https://regexr.com/)
 - [RegEx Puzzles](https://regexcrossword.com/)
