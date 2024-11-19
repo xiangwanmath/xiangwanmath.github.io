@@ -17,7 +17,7 @@ BVM Hall 516, Lake Shore Campus
 xwan1 [AT] luc [DOT] edu 
 
 **_Tel:_**	
-776-508-3554 
+773-508-3554 
 
 **_Office Hours, Spring 2024:_**
 - Math 215
