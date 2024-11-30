@@ -41,3 +41,5 @@ Since Fall 2022, I am an assistant professor at the [Department of Mathematics a
 Previously, I was a Visiting Assistant Professor at [Haverford College](https://www.haverford.edu/mathematics-and-statistics), at [the George Washington University](https://math.columbian.gwu.edu/), and a Research Assistant Professor at [Wayne State University](https://clas.wayne.edu/math).
 
 I received my Ph.D in Mathematics in 2017 from [the University of Virginia](https://math.virginia.edu/), under the supervision of [Dr. Irena Lasiecka](https://math.virginia.edu/people/il2v/).
+
+My research has been supported by the [Coleage of Arts and Sciences](https://www.luc.edu/cas/), by the [Office of the Provost](https://www.luc.edu/academicaffairs/index.shtml), and by the [National Science Foundation](https://www.nsf.gov/).
