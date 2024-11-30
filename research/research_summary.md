@@ -108,11 +108,11 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
     
 * **A Theoretical Framework for the Numerical Approximation of Riccati-based Feedback Control Problems over a finite-time horizon: the hyperbolic-like case with unbounded controls**
     
-    with Irena Lasiecka and Roberto Triggiani. *Submitted*.
+    with Irena Lasiecka and Roberto Triggiani. *Journal of Optimization Theory and Applications*. Accepted.
 
     <details>
     <summary>Abstract</summary>
-    Abstract.
+    This paper provides a (rigorous) theoretical framework for the numerical approximation of Riccati-based feedback control problems of hyperbolic-like dynamics over a finite-time horizon, with emphasis on genuine unbounded control action. Both continuous and approximation theories are illustrated by specific canonical hyperbolic-like equations with boundary control, where the abstract assumptions are actually sharp regularity properties of the hyperbolic dynamics under discussion. Assumptions are divided in two groups. A first group of dynamical assumptions (actually dynamic properties) imply some preliminary critical properties of the control problem, including the definition of the would-be Riccati operator, in terms of the original data. However, in order to guarantee that such an operator is moreover the unique solution (within a specific class) of the corresponding Differential/Integral Riccati Equation, additional smoothing assumptions on the operators defining the performance index are required. The ultimate goal is to show that the the discrete finite dimensional Riccati based feedback operator, when inserted into the original PDE dynamics, provides near optimal performance. 
     </details>
 
 
