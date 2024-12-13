@@ -118,7 +118,7 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 
 ***
 
-#### [Student Research Advising](/student_research.md)
+#### [Student Research](/student_research.md)
 
 ***
 
