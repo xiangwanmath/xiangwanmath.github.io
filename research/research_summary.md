@@ -69,16 +69,6 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
     We consider the linear third order (in time) PDE known as the SMGTJ-equation, defined on a bounded domain, under the action of either Dirichlet or Neumann boundary control g. Optimal interior and boundary regularity results were given in [1], after [41], when g ∈ L2(0, T ; L2(Γ)) ≡ L2(Σ), which, moreover, in the canonical case γ = 0, were expressed by the well-known explicit representation formulae of the wave equation in terms of cosine/sine operators [20], [17], [25, Vol II]. The interior or boundary regularity theory is however the same, whether γ = 0 or 0 6 = γ ∈ L∞(Ω), since γ 6 = 0 is responsible only for lower order terms. Here we exploit such cosine operator based-explicit representation formulae to provide optimal interior and boundary regularity results with g “smoother” than L2(Σ), qualitatively by one unit, two units, etc. in the Dirichlet boundary case. To this end, we invoke the corresponding results for wave equations, as in [17]. Similarly for the Neumann boundary case, by invoking the corresponding results for the wave equation as in [23], [24], [37] for control smoother than L2(0, T ; L2(Γ)), and [44] for control less regular in space than L2(Γ). In addition, we provide optimal interior and boundary regularity results when the SMGTJ equation is subject to interior point control, by invoking the corresponding wave equations results [42], [25, Section 9.8.2].
     </details>
 
-
-* [**Abstract representation of the SMGTJ equation under rough boundary controls: optimal interior regularity**](https://onlinelibrary.wiley.com/doi/full/10.1002/mma.8619)
-    
-    with Irena Lasiecka and Roberto Triggiani, <em>Mathematical Methods in the Applied Sciences</em>, (2022) doi:10.1002/mma.8619.
-
-    <details>
-    <summary>Abstract</summary>
-    We consider the linearized third order SMGTJ equation defined on a sufficiently smooth boundary domain in ℝ 3 and subject to either Dirichlet or Neumann rough boundary control. Filling a void in the literature, we present a direct general 3 × 3 system approach based on the vector state solution {position, velocity, acceleration}. It yields, in both cases, an explicit representation formula: input → solution, based on the s.c. group generator of the boundary homogeneous problem and corresponding elliptic Dirichlet or Neumann map. It is close to, but also distinctly and critically different from, the abstract variation of parameter formula that arises in more traditional boundary control problems for PDEs L-T.6. Through a duality argument based on this explicit formula, we provide a new proof of the optimal regularity theory: boundary control → {position, velocity, acceleration} with low regularity boundary control, square integrable in time and space.
-    </details>
-
 * [**Luenberger Compensentor Theory for Heat-Kelvin-Voigt-damped-Structure Interaction Models with Interface/Boundary Feedback Controls**](https://www.degruyter.com/document/doi/10.1515/math-2022-0589/html)
     
     with Roberto Triggiani, <em>Open Mathematics</em>, vol. 21, no. 1, (2023), pp. 20220589.
@@ -115,6 +105,14 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
     This paper provides a (rigorous) theoretical framework for the numerical approximation of Riccati-based feedback control problems of hyperbolic-like dynamics over a finite-time horizon, with emphasis on genuine unbounded control action. Both continuous and approximation theories are illustrated by specific canonical hyperbolic-like equations with boundary control, where the abstract assumptions are actually sharp regularity properties of the hyperbolic dynamics under discussion. Assumptions are divided in two groups. A first group of dynamical assumptions (actually dynamic properties) imply some preliminary critical properties of the control problem, including the definition of the would-be Riccati operator, in terms of the original data. However, in order to guarantee that such an operator is moreover the unique solution (within a specific class) of the corresponding Differential/Integral Riccati Equation, additional smoothing assumptions on the operators defining the performance index are required. The ultimate goal is to show that the the discrete finite dimensional Riccati based feedback operator, when inserted into the original PDE dynamics, provides near optimal performance. 
     </details>
 
+* [**Abstract representation of the SMGTJ equation under rough boundary controls: optimal interior regularity**](https://onlinelibrary.wiley.com/doi/full/10.1002/mma.8619)
+    
+    with Irena Lasiecka and Roberto Triggiani, <em>Math. Meth. Appl. Sci.</em>  47 (2024), 13063–13086, DOI 10.1002/mma.8619
+
+    <details>
+    <summary>Abstract</summary>
+    We consider the linearized third order SMGTJ equation defined on a sufficiently smooth boundary domain in ℝ 3 and subject to either Dirichlet or Neumann rough boundary control. Filling a void in the literature, we present a direct general 3 × 3 system approach based on the vector state solution {position, velocity, acceleration}. It yields, in both cases, an explicit representation formula: input → solution, based on the s.c. group generator of the boundary homogeneous problem and corresponding elliptic Dirichlet or Neumann map. It is close to, but also distinctly and critically different from, the abstract variation of parameter formula that arises in more traditional boundary control problems for PDEs L-T.6. Through a duality argument based on this explicit formula, we provide a new proof of the optimal regularity theory: boundary control → {position, velocity, acceleration} with low regularity boundary control, square integrable in time and space.
+    </details>
 
 ***
 
