@@ -12,6 +12,10 @@ Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for en
   - MATH/COMP 390/409: (Advanced) Numerical Analysis
   - MATH 298/390: Research/Mathematics Seminar
 
+#### Fall 2025
+  - MATH 353/453: Complex Analysis
+  - MATH 401/495: Math Graduate Seminar/Practicum
+
 #### [Past teaching](/past_teaching.md)
 
 #### Useful Learning Modules
