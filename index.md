@@ -26,6 +26,7 @@ xwan1 [AT] luc [DOT] edu
 
 **_Office Hours, Spring 2025:_**
 - Wednesday 3-5PM
+- Wednesday 9-10PM (Zoom; link on Sakai)
 
 **_Departmental Webpage:_**
 [<u>https://www.luc.edu/math/profiles/wanxiang.shtml/</u>](https://www.luc.edu/math/profiles/wanxiang.shtml)
