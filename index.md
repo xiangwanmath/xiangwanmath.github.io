@@ -32,7 +32,7 @@ xwan1 [AT] luc [DOT] edu
 [<u>https://www.luc.edu/math/profiles/wanxiang.shtml/</u>](https://www.luc.edu/math/profiles/wanxiang.shtml)
 
 **_Mailing Address:_**
-6317 N Broadway St, BVM Hall 516, Chicago, IL, 60660
+6317 N Broadway St, BVM Hall 516, Chicago, IL 60660
 
 ***
 
