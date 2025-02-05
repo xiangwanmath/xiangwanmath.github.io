@@ -10,6 +10,7 @@ Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for en
 
 #### Spring 2025
   - MATH/COMP 390/409: (Advanced) Numerical Analysis
+  - MATH 298/390: Research/Mathematics Seminar
 
 #### [Past teaching](/past_teaching.md)
 
