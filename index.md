@@ -8,7 +8,13 @@ title: ""
 --->
 
 
-<img style="float: right; margin:2% 0%; margin-top: 0" src="/pic/Xiang_JMM_2025.jpg" alt = "Xiang Wan Profile" width = "25%">
+<img style="float: right; 
+      margin-top: 0%;
+      margin-right: 5%;
+      margin-bottom: 0%;
+      margin-left: 0%;" 
+      src="/pic/Xiang_JMM_2025.jpg" alt = "Xiang Wan Profile" width = "25%"
+>
 
 **_Office:_**
 BVM Hall 516, Lake Shore Campus
