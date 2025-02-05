@@ -19,6 +19,6 @@ Officers for Academic Year 2024-2025 (click to email them)
 
 * Treasurer: [Sarah Riaz](mailto:sriaz@luc.edu)
 
-## Spring 2025 trip to Argonne National Laboratory
+### Spring 2025 trip to Argonne National Laboratory
 - Time: Saturday, March 29, 2025, 9AM - 5PM (estimated)
 - [Sign-up form](https://forms.office.com/r/vhJgu3vFxf) (due on 02/08/2025)
