@@ -13,8 +13,7 @@ title: ""
       margin-right: 5%;
       margin-bottom: 0%;
       margin-left: 0%;" 
-      src="/pic/Xiang_JMM_2025.jpg" alt = "Xiang Wan Profile" width = "25%"
->
+      src="/pic/Xiang_JMM_2025.jpg" alt = "Xiang Wan Profile" width = "25%">
 
 **_Office:_**
 BVM Hall 516, Lake Shore Campus
