@@ -8,8 +8,8 @@ permalink: /teaching
 
 Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for enrolled students.
 
-#### Fall 2024
-  - Math 162: Calculus II
+#### Spring 2025
+  - MATH/COMP 390/409: Numerical Analysis
 
 #### [Past teaching](/past_teaching.md)
 
