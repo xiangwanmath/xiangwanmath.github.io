@@ -107,7 +107,7 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 
 * **Numerical approximation of Riccati-based hyperbolic-like feedback controls**
     
-    with Irena Lasiecka and Roberto Triggiani. *J. Optim. Theory Appl.*. Accepted.
+    with Irena Lasiecka and Roberto Triggiani. *J. Optim. Theory Appl.* (2025), Accepted.
 
     <details>
     <summary>Abstract</summary>
