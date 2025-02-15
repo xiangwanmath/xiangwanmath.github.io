@@ -95,15 +95,6 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
     <summary>Abstract</summary>
     The terminal alkyne C≡C stretch has a large Raman scattering cross section in the “silent” region for biomolecules. This has led to many Raman tag and probe studies using this moiety to study biomolecular systems. Computational investigation of these systems is vital to aid in the interpretation of these results. In this work, we develop a method for computing terminal alkyne vibrational frequencies and isotropic transition polarizabilities which can easily and accurately be applied to any terminal alkyne molecule. We apply the discrete variable representation method to a localized version of the C≡C stretch normal mode. The errors of (1) vibrational localization to the terminal alkyne moiety, (2) anharmonic normal mode isolation, and (3) discretization of the Born-Oppenheimer potential energy surface are quantified and found to be generally small and cancel each other. This results in a method with low error compared to other anharmonic vibrational methods like VPT2 and to experiment. Several density functionals are tested using the method, and TPSS-D3, an inexpensive nonempirical density functional with dispersion corrections, is found to perform surprisingly well. Diffuse basis functions are found to be important for the accuracy of computed frequencies. Finally, the computation of vibrational properties like isotropic transition polarizabilities and the universality of the localized normal mode for terminal alkynes are demonstrated.
     </details>
-    
-* **A Theoretical Framework for the Numerical Approximation of Riccati-based Feedback Control Problems over a finite-time horizon: the hyperbolic-like case with unbounded controls**
-    
-    with Irena Lasiecka and Roberto Triggiani. *Journal of Optimization Theory and Applications*. Accepted.
-
-    <details>
-    <summary>Abstract</summary>
-    This paper provides a (rigorous) theoretical framework for the numerical approximation of Riccati-based feedback control problems of hyperbolic-like dynamics over a finite-time horizon, with emphasis on genuine unbounded control action. Both continuous and approximation theories are illustrated by specific canonical hyperbolic-like equations with boundary control, where the abstract assumptions are actually sharp regularity properties of the hyperbolic dynamics under discussion. Assumptions are divided in two groups. A first group of dynamical assumptions (actually dynamic properties) imply some preliminary critical properties of the control problem, including the definition of the would-be Riccati operator, in terms of the original data. However, in order to guarantee that such an operator is moreover the unique solution (within a specific class) of the corresponding Differential/Integral Riccati Equation, additional smoothing assumptions on the operators defining the performance index are required. The ultimate goal is to show that the the discrete finite dimensional Riccati based feedback operator, when inserted into the original PDE dynamics, provides near optimal performance. 
-    </details>
 
 * [**Abstract representation of the SMGTJ equation under rough boundary controls: optimal interior regularity**](https://onlinelibrary.wiley.com/doi/full/10.1002/mma.8619)
     
@@ -112,6 +103,15 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
     <details>
     <summary>Abstract</summary>
     We consider the linearized third order SMGTJ equation defined on a sufficiently smooth boundary domain in ℝ 3 and subject to either Dirichlet or Neumann rough boundary control. Filling a void in the literature, we present a direct general 3 × 3 system approach based on the vector state solution {position, velocity, acceleration}. It yields, in both cases, an explicit representation formula: input → solution, based on the s.c. group generator of the boundary homogeneous problem and corresponding elliptic Dirichlet or Neumann map. It is close to, but also distinctly and critically different from, the abstract variation of parameter formula that arises in more traditional boundary control problems for PDEs L-T.6. Through a duality argument based on this explicit formula, we provide a new proof of the optimal regularity theory: boundary control → {position, velocity, acceleration} with low regularity boundary control, square integrable in time and space.
+    </details>
+
+* **Numerical approximation of Riccati-based hyperbolic-like feedback controls**
+    
+    with Irena Lasiecka and Roberto Triggiani. *J. Optim. Theory Appl.*. Accepted.
+
+    <details>
+    <summary>Abstract</summary>
+    This paper provides a (rigorous) theoretical framework for the numerical approximation of Riccati-based feedback control problems of hyperbolic-like dynamics over a finite-time horizon, with emphasis on genuine unbounded control action. Both continuous and approximation theories are illustrated by specific canonical hyperbolic-like equations with boundary control, where the abstract assumptions are actually sharp regularity properties of the hyperbolic dynamics under discussion. Assumptions are divided in two groups. A first group of dynamical assumptions (actually dynamic properties) imply some preliminary critical properties of the control problem, including the definition of the would-be Riccati operator, in terms of the original data. However, in order to guarantee that such an operator is moreover the unique solution (within a specific class) of the corresponding Differential/Integral Riccati Equation, additional smoothing assumptions on the operators defining the performance index are required. The ultimate goal is to show that the the discrete finite dimensional Riccati based feedback operator, when inserted into the original PDE dynamics, provides near optimal performance. 
     </details>
 
 ***
