@@ -4,7 +4,7 @@ title: "Student Research"
 permalink: /student_research
 ---
 
-Interested in doing math research with me? I always welcome students with a few key qualities: **curiosity**, **critical thinking**, **persistence**, and **attention to details**. Your stage of mathematical study comes next; I am interested in working with students at different stages.
+Interested in doing math research with me? I always welcome students with a few key qualities: **curiosity**, **critical thinking**, **persistence**, and **attention to details**. Your current stage of mathematical study comes next; I am interested in working with students at different levels.
 
 My past work with students were in various formats, including research projects, independent study (courses), reading courses:
 
@@ -48,17 +48,18 @@ My past work with students were in various formats, including research projects,
     - PDE Methods in Image Processing, Spring 2025
 
 - Reading Courses
+
+  The topics should be about advanced materials. A few that I have mentored at Loyola:
   - [Functional Analysis](https://www.overleaf.com/read/dtdrczdwrbnt#79c706)
   - [Pointset Topology and Analysis](https://www.overleaf.com/read/thmjyvvtcffc#7268f6)
 
-If this sounds like you, feel free to contact me. 
-Still interested? Feel free to send me an email or stop by during my open office hours.  
 
-
-
+If you are still interested this far, feel free to contact me **with questions**, either via an email or stop by during my open office hours.  
 
 
 ### External Opportunities
+
+Several of my past students have successfully obtained Summer REUs. Here are a few places as examples:
 - [Science Undergraduate Laboratory Internships](https://science.osti.gov/wdts/suli)
 - [NSF Graduate Research Fellowship Program (GRFP)](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp)
 - [IIT Summer REU 'SURE'](https://www.iit.edu/computing/research/student-research/SURE)
