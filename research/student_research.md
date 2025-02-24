@@ -33,7 +33,7 @@ Some past projects I mentored:
 ---> 
 
 ### Seminar Courses
-MATH 298 (1 credit, run every Spring) and MATH 390 (2 credits, run every Spring) are dedicated to students' work in research. They are both approved **Engaged Learning** courses with 3 credits togather and meet the Loyola's EL requirement.
+[MATH 298]("/pic/Xiang_JMM_2025.jpg") (1 credit, run every Spring) and MATH 390 (2 credits, run every Spring) are dedicated to students' work in research. They are both approved **Engaged Learning** courses with 3 credits togather and meet the Loyola's EL requirement.
 
 ### Independent Study
 This is for advanced students who are interested in learning beyond standard curricular offered at Loyola. The 
