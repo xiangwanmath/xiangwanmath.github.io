@@ -9,6 +9,7 @@ Interested in doing math research with me? I always welcome students with a few 
 I worked with students in various formats, including research projects, independent study (courses), reading courses.
 
 - Research Projects
+  
   Loyola has established programs that aim on promoting undergraduate research. Check out the [LUROP website](https://www.luc.edu/celts/programs/undergraduateresearch/) and read the website through. It contains a lot of useful information.
   
   Some past projects I mentored:
@@ -33,11 +34,13 @@ I worked with students in various formats, including research projects, independ
   ---> 
 
 - Seminar Courses
+  
   MATH 298 (1 credit, run every Spring) and MATH 390 (2 credits, run every Spring) are dedicated to students' work in research. They are both approved **Engaged Learning** courses with 3 credits togather and meet the Loyola's EL requirement.
   
   See examples of their syllabi [here](https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/xwan1_luc_edu/EmLEoqdNFG5GoQP56-2v0sgB_UWlK9cDdbK2Jr9BELW6GA).
 
 - Independent Study
+  
   This is for advanced students who are interested in learning beyond standard curricular offered at Loyola. The 
   - MATH 395/495
     - TBD, Fall 2025
