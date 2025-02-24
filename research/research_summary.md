@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research
 ---
 
-#### [Student Research](/student_research.md)
+#### [Student Research Mentoring](/student_research.md)
 
 ***
 
