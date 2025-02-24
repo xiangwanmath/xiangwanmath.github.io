@@ -4,9 +4,9 @@ title: "Student Research"
 permalink: /student_research
 ---
 
-Interested in doing math research with me? I always welcome students with a few key qualities: curiosity, critical thinking, persistence, and attention to details. 
+Interested in doing math research with me? I always welcome students with a few key qualities: **curiosity**, **critical thinking**, **persistence**, and **attention to details**. Your stage of mathematical study comes next; I am interested in working with students at different stages.
 
-I worked with students in various formats, including research projects, independent study (courses), reading courses.
+My past work with students were in various formats, including research projects, independent study (courses), reading courses:
 
 - Research Projects
   
