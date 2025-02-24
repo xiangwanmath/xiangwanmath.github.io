@@ -22,7 +22,7 @@ My past work with students were in various formats, including research projects,
   - Babel Barm, USRE (Summer 2024)
   - Avery Boland, USRE (Summer 2024)
   - Amanda Newton: WISER Fellowship (Summer 2023); Mulcahy Fellowship (AY 2024-25); NSF grant support (AY 2024-25)
-  - Cecily Bartsch: Mulcahy Fellowing (AY 2024-25); Provost Fellowing (Summer 2023); Rataj Fellowship (Summer 2024); NSF grant support (AY 2024-25)
+  - Cecily Bartsch: Mulcahy Fellowing (AY 2023-24); Provost Fellowing (Summer 2023); Rataj Fellowship (Summer 2024); NSF grant support (AY 2024-25)
   - Miguel Diaz: USRE (Summer 2023)
   - Elizabeth Joseph: USRE (Summer 2023)
   
