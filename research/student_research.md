@@ -32,6 +32,20 @@ Some past projects I mentored:
   </details>
 ---> 
 
+### Seminar Courses
+MATH 298 (1 credit, run every Spring) and MATH 390 (2 credits, run every Spring) are dedicated to students' work in research. They are both approved **Engaged Learning** courses with 3 credits togather and meet the Loyola's EL requirement.
+
+### Independent Study
+This is for advanced students who are interested in learning beyond standard curricular offered at Loyola. The 
+- MATH 395/495
+  - TBD, Fall 2025
+- COMP 495
+  - PDE Methods in Image Processing, Spring 2025
+
+### Reading Courses
+- [Functional Analysis](https://www.overleaf.com/read/dtdrczdwrbnt#79c706)
+- Pointset Topology and Analysis
+
 If this sounds like you, feel free to contact me. 
 Still interested? Feel free to send me an email or stop by during my open office hours.  
 
