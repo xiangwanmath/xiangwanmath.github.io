@@ -4,9 +4,6 @@ title: "Research"
 permalink: /research
 ---
 
-#### [Student Research Mentoring](/student_research.md)
-
-***
 
 #### Research Summary
 My research is in Applied Mathematics, in particular, centered around nonlinear Partial Differential Equations (PDEs). My current research involves
@@ -120,7 +117,9 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 
 ***
 
+#### [Student Research Mentoring](/student_research.md)
 
+***
 #### [LUC ITS Computer cluster tips](/luc_cluster.md)
 
 ***
