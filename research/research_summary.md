@@ -4,6 +4,10 @@ title: "Research"
 permalink: /research
 ---
 
+#### [Student Research](/student_research.md)
+
+***
+
 #### Research Summary
 My research is in Applied Mathematics, in particular, centered around nonlinear Partial Differential Equations (PDEs). My current research involves
 * well-posedness and long-term behavior of parabolic and hyperbolic PDE systems; 
@@ -116,9 +120,6 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 
 ***
 
-#### [Student Research](/student_research.md)
-
-***
 
 #### [LUC ITS Computer cluster tips](/luc_cluster.md)
 
