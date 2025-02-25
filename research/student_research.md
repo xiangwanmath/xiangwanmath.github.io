@@ -71,6 +71,11 @@ If you are still interested this far, feel free to contact me **with questions**
   - Miguel Diaz: Summer 2023
   - Elizabeth Joseph: Summer 2023
 
+They have presented their work in various places, including
+- [URES](https://www.luc.edu/celts/symposium/) (annually held by Loyola, often in early-mid April)
+- [CAURS](https://www.caurs.com/) (annually, often in early-mid April)
+- Joint Math Meetings (annually, often in early January; largest gathering of mathematicians in the United States, and the largest annual meeting of mathematicians in the world)
+
 ### External Opportunities
 
 Several of my past students have successfully obtained Summer REUs. Here are a few places as examples:
