@@ -6,7 +6,7 @@ permalink: /research
 
 <img style="float: right; 
       margin-top: 0%;
-      margin-right: 5%;
+      margin-right: 0%;
       margin-bottom: 0%;
       margin-left: 0%;" 
       src="/pic/NSF_Official_logo_Med_Res.png" alt = "NSF" width = "20%">
