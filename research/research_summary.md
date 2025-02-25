@@ -9,7 +9,7 @@ permalink: /research
       margin-right: 5%;
       margin-bottom: 0%;
       margin-left: 0%;" 
-      src="/pic/NSF_Official_logo_Med_Res.png" alt = "NSF" width = "10%">
+      src="/pic/NSF_Official_logo_Med_Res.png" alt = "NSF" width = "20%">
       
 #### Research Summary
 My research is in Applied Mathematics, in particular, centered around nonlinear Partial Differential Equations (PDEs). My current research involves
