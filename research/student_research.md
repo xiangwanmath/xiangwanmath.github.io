@@ -12,19 +12,14 @@ My past work with students were in various formats, including research projects,
   
   Loyola has established programs that aim on promoting undergraduate research. Check out the [LUROP website](https://www.luc.edu/celts/programs/undergraduateresearch/) and read the website through. It contains a lot of useful information.
   
-  Some past projects I mentored:
+  [//]: # (Some past projects I mentored:)
   
   <!---#### 2023 - 2024--->
   <!---
   - [Babel Barm](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Barm_USRE_2024.ipynb): Summer. 2024 ([talk slides](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Babel_slides_USRE_2024.pdf))
   - [Avery Boland](https://github.com/averyb197/Real-USRE): Summer. 2024  
   --->
-  - Babel Barm, Summer 2024
-  - Avery Boland, Summer 2024 - present
-  - Amanda Newton: Summer 2023 - present
-  - Cecily Bartsch: Summer 2023 - Spring 2025
-  - Miguel Diaz: Summer 2023
-  - Elizabeth Joseph: Summer 2023
+
   
   <!---
     <details>
