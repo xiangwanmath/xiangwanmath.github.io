@@ -75,6 +75,7 @@ They have presented their work in various places, including
 - [URES](https://www.luc.edu/celts/symposium/) (annually held by Loyola, often in early-mid April)
 - [CAURS](https://www.caurs.com/) (annually, often in early-mid April)
 - Joint Math Meetings (annually, often in early January; largest gathering of mathematicians in the United States, and the largest annual meeting of mathematicians in the world)
+- Departmental (math & stat) Student Colloquium (often held in the Fall)
 
 ### External Opportunities
 
@@ -82,3 +83,6 @@ Several of my past students have successfully obtained Summer REUs. Here are a f
 - [Science Undergraduate Laboratory Internships](https://science.osti.gov/wdts/suli)
 - [NSF Graduate Research Fellowship Program (GRFP)](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp)
 - [IIT Summer REU 'SURE'](https://www.iit.edu/computing/research/student-research/SURE)
+- [NSF REU Search](https://www.nsf.gov/funding/initiatives/reu/search?f%5b0%5d=reu_research_area:25741)
+
+You can find more information [here](https://www.luc.edu/math/scholarshipsopportunities/).
