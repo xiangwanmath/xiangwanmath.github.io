@@ -11,6 +11,7 @@ Interested in doing math research with me? I always welcome students with a few 
   - [Babel Barm](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Barm_USRE_2024.ipynb): Summer. 2024 ([talk slides](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Babel_slides_USRE_2024.pdf))
   - [Avery Boland](https://github.com/averyb197/Real-USRE): Summer. 2024  
   --->
+  - Merisa Kraja, Spring 2025 - present
   - Walter McGavran, Fall 2024 - Spring 2025
   - Daleney Rager, Fall 2024 - present
   - Avery Boland, Summer 2024 - present
