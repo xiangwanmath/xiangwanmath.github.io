@@ -19,12 +19,12 @@ My past work with students were in various formats, including research projects,
   - [Babel Barm](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Barm_USRE_2024.ipynb): Summer. 2024 ([talk slides](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Babel_slides_USRE_2024.pdf))
   - [Avery Boland](https://github.com/averyb197/Real-USRE): Summer. 2024  
   --->
-  - Babel Barm, USRE (Summer 2024)
-  - Avery Boland, USRE (Summer 2024)
-  - Amanda Newton: WISER Fellowship (Summer 2023); Mulcahy Fellowship (AY 2024-25); NSF grant support (AY 2024-25)
-  - Cecily Bartsch: Mulcahy Fellowing (AY 2023-24); Provost Fellowing (Summer 2023); Rataj Fellowship (Summer 2024); NSF grant support (AY 2024-25)
-  - Miguel Diaz: USRE (Summer 2023)
-  - Elizabeth Joseph: USRE (Summer 2023)
+  - Babel Barm, Summer 2024
+  - Avery Boland, Summer 2024 - present
+  - Amanda Newton: Summer 2023 - present
+  - Cecily Bartsch: Summer 2023 - Spring 2025
+  - Miguel Diaz: Summer 2023
+  - Elizabeth Joseph: Summer 2023
   
   <!---
     <details>
