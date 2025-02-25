@@ -4,24 +4,8 @@ title: "Student Research"
 permalink: /student_research
 ---
 
-Interested in doing math research with me? I always welcome students with a few key qualities: **curiosity**, **critical thinking**, **persistence**, and **attention to details**. Your current stage of mathematical study comes next; I am interested in working with students at different levels. Past and current students I mentored/am mentoring:
-
-<!---#### 2023 - 2024--->
-  <!---
-  - [Babel Barm](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Barm_USRE_2024.ipynb): Summer. 2024 ([talk slides](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Babel_slides_USRE_2024.pdf))
-  - [Avery Boland](https://github.com/averyb197/Real-USRE): Summer. 2024  
-  --->
-  - Merisa Kraja, Spring 2025 - present
-  - Walter McGavran, Fall 2024 - Spring 2025
-  - Daleney Rager, Fall 2024 - present
-  - Avery Boland, Summer 2024 - present
-  - Chloe Ramirez, Summer 2024 - Spring 2025
-  - Babel Barm, Summer 2024
-  - Joey Dingillo, Fall 2023 - Spring 2025
-  - Amanda Newton: Summer 2023 - present
-  - Cecily Bartsch: Summer 2023 - Spring 2025
-  - Miguel Diaz: Summer 2023
-  - Elizabeth Joseph: Summer 2023
+Interested in doing math research with me? I always welcome students with a few key qualities: **curiosity**, **critical thinking**, **persistence**, and **attention to details**. 
+Your current stage of mathematical study comes next; I am interested in working with students at different levels. 
 
 My past work with students were in various formats, including research projects, independent study (courses), reading courses:
 
@@ -68,6 +52,24 @@ My past work with students were in various formats, including research projects,
 
 If you are still interested this far, feel free to contact me **with questions**, either via an email or stop by during my open office hours.  
 
+#### Past and current students I mentored/am mentoring:
+
+<!---#### 2023 - 2024--->
+  <!---
+  - [Babel Barm](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Barm_USRE_2024.ipynb): Summer. 2024 ([talk slides](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Babel_slides_USRE_2024.pdf))
+  - [Avery Boland](https://github.com/averyb197/Real-USRE): Summer. 2024  
+  --->
+  - Merisa Kraja, Spring 2025 - present
+  - Walter McGavran, Fall 2024 - Spring 2025
+  - Daleney Rager, Fall 2024 - present
+  - Avery Boland, Summer 2024 - present
+  - Chloe Ramirez, Summer 2024 - Spring 2025
+  - Babel Barm, Summer 2024
+  - Joey Dingillo, Fall 2023 - Spring 2025
+  - Amanda Newton: Summer 2023 - present
+  - Cecily Bartsch: Summer 2023 - Spring 2025
+  - Miguel Diaz: Summer 2023
+  - Elizabeth Joseph: Summer 2023
 
 ### External Opportunities
 
