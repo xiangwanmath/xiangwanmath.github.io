@@ -44,3 +44,5 @@ Previously, I was a Visiting Assistant Professor at [Haverford College](https://
 I received my Ph.D in Mathematics in 2017 from [the University of Virginia](https://math.virginia.edu/), under the supervision of [Dr. Irena Lasiecka](https://math.virginia.edu/people/il2v/).
 
 My research has been supported by the [College of Arts and Sciences](https://www.luc.edu/cas/), by the [Office of the Provost](https://www.luc.edu/academicaffairs/index.shtml), and by the [National Science Foundation](https://www.nsf.gov/).
+
+I am the co-advisor of the LUC SIAM Student Chapter. See more information about the chapter [here](https://loyolachicagosiam.github.io/).
