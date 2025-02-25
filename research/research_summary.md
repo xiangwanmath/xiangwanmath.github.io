@@ -4,7 +4,13 @@ title: "Research"
 permalink: /research
 ---
 
-
+<img style="float: right; 
+      margin-top: 0%;
+      margin-right: 5%;
+      margin-bottom: 0%;
+      margin-left: 0%;" 
+      src="/pic/NSF_Official_logo_Med_Res.png" alt = "NSF" width = "10%">
+      
 #### Research Summary
 My research is in Applied Mathematics, in particular, centered around nonlinear Partial Differential Equations (PDEs). My current research involves
 * well-posedness and long-term behavior of parabolic and hyperbolic PDE systems; 
