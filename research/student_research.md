@@ -54,11 +54,11 @@ If you are still interested this far, feel free to contact me **with questions**
 
 #### Past and current students I mentored/am mentoring:
 
-<!---#### 2023 - 2024--->
-  <!---
+
+<!---
   - [Babel Barm](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Barm_USRE_2024.ipynb): Summer. 2024 ([talk slides](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Babel_slides_USRE_2024.pdf))
   - [Avery Boland](https://github.com/averyb197/Real-USRE): Summer. 2024  
-  --->
+--->
   - Merisa Kraja, Spring 2025 - present
   - Walter McGavran, Fall 2024 - Spring 2025
   - Daleney Rager, Fall 2024 - present
@@ -74,7 +74,7 @@ If you are still interested this far, feel free to contact me **with questions**
 They have presented their work in various places, including
 - [URES](https://www.luc.edu/celts/symposium/) (annually held by Loyola, often in early-mid April)
 - [CAURS](https://www.caurs.com/) (annually, often in early-mid April)
-- Joint Math Meetings (annually, often in early January; largest gathering of mathematicians in the United States, and the largest annual meeting of mathematicians in the world)
+- [Joint Math Meetings](https://www.ams.org/meetings/national/national) (annually, often in early January; largest gathering of mathematicians in the United States, and the largest annual meeting of mathematicians in the world)
 - Departmental (math & stat) Student Colloquium (often held in the Fall)
 
 ### External Opportunities
