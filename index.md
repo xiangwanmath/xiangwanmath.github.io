@@ -46,3 +46,30 @@ I received my Ph.D in Mathematics in 2017 from [the University of Virginia](http
 My research has been supported by the [College of Arts and Sciences](https://www.luc.edu/cas/), by the [Office of the Provost](https://www.luc.edu/academicaffairs/index.shtml), and by the [National Science Foundation](https://www.nsf.gov/).
 
 I am the co-advisor of the LUC SIAM Student Chapter. See more information about the chapter [here](https://loyolachicagosiam.github.io/).
+
+**Visitor Count:**  
+<span id="visitor-counter">Loading...</span>
+
+<script>
+// GitHub API setup
+const repo = 'xiangwanmath/xiangwanmath.github.ioO'; 
+const filePath = 'assets/visit_count.json';  
+const token = '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';       
+
+async function fetchCounter() {
+  try {
+    // Fetch current count (no write permissions needed)
+    const response = await fetch(`https://api.github.com/repos/${repo}/contents/${filePath}`, {
+      headers: { 'Authorization': `token ${token}` },
+    });
+    const data = await response.json();
+    const content = JSON.parse(atob(data.content));
+    document.getElementById('visitor-counter').textContent = content.count;
+  } catch (error) {
+    console.error('Error fetching counter:', error);
+    document.getElementById('visitor-counter').textContent = 'Error';
+  }
+}
+
+fetchCounter();
+</script>
