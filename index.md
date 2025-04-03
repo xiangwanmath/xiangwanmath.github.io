@@ -47,5 +47,3 @@ My research has been supported by the [College of Arts and Sciences](https://www
 
 I am the co-advisor of the LUC SIAM Student Chapter. See more information about the chapter [here](https://loyolachicagosiam.github.io/).
 
-**Visitor Count:**  
-<span id="visitor-counter">Loading...</span>
