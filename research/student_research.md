@@ -76,6 +76,7 @@ They have presented their work in various places, including
 - [CAURS](https://www.caurs.com/) (annually, often in early-mid April)
 - [Joint Math Meetings](https://www.ams.org/meetings/national/national) (annually, often in early January; largest gathering of mathematicians in the United States, and the largest annual meeting of mathematicians in the world)
 - Departmental (math & stat) Student Colloquium (often held in the Fall)
+- [The AWM Research Symposium](https://awm-math.org/meetings/) (biennial)
 
 ### External Opportunities
 
