@@ -63,11 +63,11 @@ If you are still interested this far, feel free to contact me **with questions**
   - Walter McGavran, Fall 2024 - Spring 2025
   - Daleney Rager, Fall 2024 - present
   - Avery Boland, Summer 2024 - present
-  - Chloe Ramirez, Summer 2024 - Spring 2025
+  - Chloe Ramirez, Summer 2024 - Spring 2025 (MS student at UT Austin)
   - Babel Barm, Summer 2024
-  - Joey Dingillo, Fall 2023 - Spring 2025
+  - Joey Dingillo, Fall 2023 - Spring 2025 (PhD student at U. Houston)
   - Amanda Newton: Summer 2023 - present
-  - Cecily Bartsch: Summer 2023 - Spring 2025
+  - Cecily Bartsch: Summer 2023 - Spring 2025 (DoD NDSEG Fellowship)
   - Miguel Diaz: Summer 2023
   - Elizabeth Joseph: Summer 2023
 
