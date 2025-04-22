@@ -59,6 +59,9 @@ If you are still interested this far, feel free to contact me **with questions**
   - [Babel Barm](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Barm_USRE_2024.ipynb): Summer. 2024 ([talk slides](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Babel_slides_USRE_2024.pdf))
   - [Avery Boland](https://github.com/averyb197/Real-USRE): Summer. 2024  
 --->
+  - Charles Clevenger, Summer 2025 - present
+  - Luke Nowlis, Summer 2025
+  - Jake Lee, Summer 2025
   - Merisa Kraja, Spring 2025 - present
   - Walter McGavran, Fall 2024 - Spring 2025
   - Daleney Rager, Fall 2024 - present
