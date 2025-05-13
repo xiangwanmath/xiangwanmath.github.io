@@ -112,7 +112,7 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
     We consider the linearized third order SMGTJ equation defined on a sufficiently smooth boundary domain in ℝ 3 and subject to either Dirichlet or Neumann rough boundary control. Filling a void in the literature, we present a direct general 3 × 3 system approach based on the vector state solution {position, velocity, acceleration}. It yields, in both cases, an explicit representation formula: input → solution, based on the s.c. group generator of the boundary homogeneous problem and corresponding elliptic Dirichlet or Neumann map. It is close to, but also distinctly and critically different from, the abstract variation of parameter formula that arises in more traditional boundary control problems for PDEs L-T.6. Through a duality argument based on this explicit formula, we provide a new proof of the optimal regularity theory: boundary control → {position, velocity, acceleration} with low regularity boundary control, square integrable in time and space.
     </details>
 
-* [**Numerical approximation of Riccati-based hyperbolic-like feedback controls**](https://link.springer.com/article/10.1007/s10957-025-02640-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250327&utm_content=10.1007%2Fs10957-025-02640-5#citeas)
+* [**Numerical approximation of Riccati-based hyperbolic-like feedback controls**](https://link.springer.com/article/10.1007/s10957-025-02640-5)
     
     with Irena Lasiecka and Roberto Triggiani. *J. Optim. Theory Appl.* (2025), no. 2, 34.
 
