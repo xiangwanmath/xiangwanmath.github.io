@@ -67,7 +67,7 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
     </details>
 
 
-* [**From Low to High -- and Lower -- Optimal Regularity of the SMGTJ Equation with Dirichlet and Neumann Boundary Control, and with Point Control, via Explicit Representation Formulae**](https://www.aimsciences.org/data/article/export-pdf?id=620c965e2d80b75aa4a24bb7)
+* [**From Low to High -- and Lower -- Optimal Regularity of the SMGTJ Equation with Dirichlet and Neumann Boundary Control, and with Point Control, via Explicit Representation Formulae**](https://www.aimsciences.org/article/doi/10.3934/eect.2022007)
     
     with Roberto Triggiani, <em>Evolution Equations and Control Theory</em>, (2022) 11(6): 1967-1996. 
 
