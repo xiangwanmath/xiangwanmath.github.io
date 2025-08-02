@@ -4,18 +4,18 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 title: "Xiang Wan"
 #subtitle: "Departmant of Mathematics and Statistics, Loyola University Chicago"
 
-#author: "..."
-description: "Last Update: 04/02/2025."
+author: "Xiang Wan"
+description: "Last Update: 08/02/2025."
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: "\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
 show_social: true         # show footer
 show_excerpts: false       # show article excerpts on the home page
-show_frame: false           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_frame: true           # adds a gray frame to the site
+show_sidebar: true        # show a sidebar instead of the usual header
 
 # Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
@@ -27,7 +27,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {url: "/CV.pdf", title: "CV"}
   # - {title: "another1", file: "another1.md"}
 
-# external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+# external:                  # shows a footer with social links - for available icons see e
   # - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   # - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
@@ -39,4 +39,6 @@ remote_theme: niklasbuschmann/contrast@v2.11
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
