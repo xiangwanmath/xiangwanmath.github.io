@@ -12,10 +12,10 @@ excerpt_separator: "\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
-show_social: true         # show footer
+show_social: false         # show footer
 show_excerpts: false       # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 
 # Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
