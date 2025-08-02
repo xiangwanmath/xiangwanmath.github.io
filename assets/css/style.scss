@@ -1,4 +1,6 @@
-/* Style navigation menu items as colored boxes */
+---
+@import "{{ site.theme }}";
+
 nav a {
   background-color: #f0f0f0; /* Light gray */
   padding: 6px 12px;
