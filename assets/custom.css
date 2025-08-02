@@ -1,0 +1,21 @@
+/* Style navigation menu items as colored boxes */
+nav a {
+  background-color: #f0f0f0; /* Light gray */
+  padding: 6px 12px;
+  border-radius: 6px;
+  color: #333;
+  margin-right: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+nav a:hover {
+  background-color: #007acc; /* Blue on hover */
+  color: white;
+}
+
+nav a.active {
+  background-color: #007acc;
+  color: white;
+  font-weight: bold;
+}
