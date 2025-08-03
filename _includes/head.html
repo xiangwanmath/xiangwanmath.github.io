@@ -1,4 +1,15 @@
-<head>
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-</head>
+<header id="header">
+  <div>
+    <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+  </div>
+
+  <nav>
+    {% for item in site.navigation %}
+      {% assign item_url = item.url | default: item.file | prepend: "/" | relative_url %}
+      <a href="{{ item_url }}"
+         class="{% if page.url == item_url or page.url == item_url | append: '/' %}active{% endif %}">
+        {{ item.title }}
+      </a>
+    {% endfor %}
+  </nav>
+</header>
