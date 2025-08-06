@@ -10,6 +10,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n"
 date_format: "%B %d, %Y"
+markdown: kramdown
 
 # Layout
 show_social: true         # show footer
