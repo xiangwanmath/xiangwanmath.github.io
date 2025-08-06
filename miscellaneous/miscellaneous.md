@@ -11,7 +11,7 @@ LaTeX is a typesetting system commonly used for document preparation, particular
 The math on this page is rendered by $$\KaTeX$$. 
 
 $$
-    \int_0^\infty e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2} \KaTeX
+    \int_0^\infty e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}
 $$
 
 ##### For beginners: follow [this short tutorial](https://www.overleaf.com/learn/latex/Tutorials) if you are new to LaTeX. It takes 1-2 hours.
