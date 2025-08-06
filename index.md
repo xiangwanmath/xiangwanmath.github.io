@@ -47,8 +47,8 @@ My research has been supported by the [College of Arts and Sciences](https://www
 
 I am the co-advisor of the LUC SIAM Student Chapter. See more information about the chapter [here](https://loyolachicagosiam.github.io/).
 
-Einstein's equation is $E = mc^2$.
+Einstein's equation is $f(x) = x^2$ is $f'(x) = 2x \KaTeX$.
 
 $$
-\int_0^\infty e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}
+\int_0^\infty e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2} \KaTeX
 $$
