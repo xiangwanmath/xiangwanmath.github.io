@@ -4,10 +4,6 @@ title: "Past Teaching"
 permalink: /past_teaching
 ---
 
-#### Fall 2024
-  - MATH 353/453: Complex Analysis
-  - MATH 401/495: Graduate Seminar/Practicum
-
 #### Spring 2025
   - MATH/COMP 309/409: (Advanced) Numerical Analysis
   - MATH 298/309: Research Seminar
