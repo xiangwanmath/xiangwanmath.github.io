@@ -28,7 +28,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {title: "another1", file: "another1.md"}
 
 # external:                  # shows a footer with social links - for available icons see e
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  # - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   # - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
