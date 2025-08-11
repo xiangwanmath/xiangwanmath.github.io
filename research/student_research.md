@@ -54,11 +54,8 @@ If you are still interested this far, feel free to contact me **with questions**
 
 #### Past and current students I mentored / am mentoring:
 
+![part of the group of students doing research with me in Spring 2025](./pic/research_students_Spring2025.jpg)
 
-<!---
-  - [Babel Barm](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Barm_USRE_2024.ipynb): Summer. 2024 ([talk slides](https://github.com/xiangwanmath/luc_USRE/blob/main/B.Babel_slides_USRE_2024.pdf))
-  - [Avery Boland](https://github.com/averyb197/Real-USRE): Summer. 2024  
---->
   - Charles Clevenger, Summer 2025 - present
   - Luke Nowlis, Summer 2025 - present
   - Jake Lee, Summer 2025 - present
