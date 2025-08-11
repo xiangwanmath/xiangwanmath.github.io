@@ -18,7 +18,7 @@ Compared to standard word processors (such as Word), $$\LaTeX$$ is:
 - **an industrial and academic standard:** Many scientific journals and conferences only accept $$\LaTeX$$ submissions.  
 - **version control friendly:** Works well with `Git` and other collaborative tools.  
 
-Last but not least, only in recent years has the rendering of math expressions on webpages become increasingly based on $$\LaTeX$$ and related technologies. The math expressions on this website are rendered by$$\KaTeX$$. 
+Last but not least, only in recent years has the rendering of math expressions on webpages become increasingly based on $$\LaTeX$$ and related technologies. The math expressions on this website are rendered by $$\KaTeX$$. 
 
 $$
     \int_0^\infty e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}
