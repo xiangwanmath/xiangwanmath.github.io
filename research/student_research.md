@@ -65,13 +65,13 @@ If you are still interested this far, feel free to contact me **with questions**
   - Merisa Kraja, Spring 2025 - present
   - Daleney Rager, Fall 2024 - present
   - Avery Boland, Summer 2024 - present
+  - Amanda Newton: Summer 2023 - present
   - Walter McGavran, Fall 2024 - Spring 2025
   - Chloe Ramirez, Summer 2024 - Spring 2025 (MS student at University of Texas at Austin)
   - Babel Barm, Summer 2024
   - Joey Dingillo, Fall 2023 - Spring 2025 (PhD student in Mathematics at U. Houston)
   - Miguel Diaz: Summer 2023
   - Elizabeth Joseph: Summer 2023 (MS student in Engineering at Washington University in Saint Louis)
-  - Amanda Newton: Summer 2023 - present
   - Cecily Bartsch: Summer 2023 - Spring 2025 (PhD student in Mathematics at U. Wisconsin, Madison; DoD NDSEG Fellowship)
 
 They have presented their work in various places, including
