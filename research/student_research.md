@@ -33,7 +33,7 @@ Due to the theoretical nature, there are several different ways to do research i
 
 - _Seminar Courses_
   
-  MATH 298 (1 credit) and MATH 390 (2 credits) run concurrently every Spring and are dedicated to undergraduate research work. They are both approved <ins>Engaged Learning</ins> courses with 3 credits togather and meet the Loyola's EL requirement. See examples of their syllabi [here](https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/xwan1_luc_edu/EmLEoqdNFG5GoQP56-2v0sgB_UWlK9cDdbK2Jr9BELW6GA). They cover the common skill sets needed for math research, along with the value of a collaborative environment and peer support, while the research itself is done with your research mentor."
+  MATH 298 (1 credit) and MATH 390 (2 credits) run concurrently every Spring and are dedicated to undergraduate research work. They are both approved <ins>Engaged Learning</ins> courses with 3 credits togather and meet the Loyola's EL requirement. See examples of their syllabi [here](https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/xwan1_luc_edu/EmLEoqdNFG5GoQP56-2v0sgB_UWlK9cDdbK2Jr9BELW6GA). They cover the common skill sets needed for math research, along with the value of a collaborative environment and peer support, while the research itself is done with your research mentor.
 
 
 - _Independent Study Courses_
