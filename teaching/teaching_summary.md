@@ -40,7 +40,7 @@ Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for en
 
 #### [Physics Lecture Notes (Michael Fowler, University of Virginia)](https://galileo.phys.virginia.edu/~mf1i/home.html)
 
-#### Some good read (by [Eric Schechter](https://math.vanderbilt.edu/schectex/), Professor Emeritus at the math department of Vanderbilt University and author of the celebrated book [Handbook of Analysis and Its Foundations](https://math.vanderbilt.edu/schectex/ccc/index.html) (and _Classical & Nonclassical Logics_))
+#### Some good read (by [Eric Schechter](https://math.vanderbilt.edu/schectex/), Professor Emeritus at the math department of Vanderbilt University and author of the celebrated book [_Handbook of Analysis and Its Foundations_](https://math.vanderbilt.edu/schectex/ccc/index.html) (_HAF_) among many other writings)
 
   - [The most common errors in undergraduate mathematics](https://math.vanderbilt.edu/schectex/commerrs/)
   - [Why study Calculus?](https://math.vanderbilt.edu/schectex/courses/whystudy.html)
