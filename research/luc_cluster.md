@@ -17,6 +17,7 @@ If you are a student, beside an account on the server, you will also need a VPN 
 #### 1.  [How to Access Cluster for First Time](https://github.com/xiangwanmath/xiangwanmath.github.io/blob/f6e1bee1e7df99f6d981fa8f5f3a5866a01992f9/research/ClusterAccessInstructions.pdf)
 
 To connect directly, you can open terminal (macOS or Linux) or Powershell / CMD (Windows) and type (replace `mongo1` with the server you are connecting to)
+
 `ssh username@mongo1.luc.edu`, then hit `Enter`. It will prompt you to enter the password.
 
 
