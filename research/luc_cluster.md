@@ -4,15 +4,21 @@ title: "LUC ITS Cluster"
 permalink: /luc_cluster
 ---
 
+There are various computing clusters available to students at Loyola. Take a look first at
 [LUC Computational Resources](https://www.luc.edu/its/rcs/computationalresources/)
 
-(Campus or VPN network required)
-
 **Students users need**
+If you are a student, beside an account on the server, you will also need a VPN access to connect to the servers (including `mongo1`, `mongo2`, `rock`, `freya`, etc.) You need a faculty to request both the account setup and the VPN access for you.
+
+
  - accounts set up on the server(s)
  - to gain authorization from ITS, even though they are on campus
 
 #### 1.  [How to Access Cluster for First Time](https://github.com/xiangwanmath/xiangwanmath.github.io/blob/f6e1bee1e7df99f6d981fa8f5f3a5866a01992f9/research/ClusterAccessInstructions.pdf)
+
+To connect directly, you can open terminal (macOS or Linux) or Powershell / CMD (Windows) and type (replace `mongo1` with the server you are connecting to)
+`ssh username@mongo1.luc.edu`, then hit `Enter`. It will prompt you to enter the password.
+
 
 #### 2. [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 
