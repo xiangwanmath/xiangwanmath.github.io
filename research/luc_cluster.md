@@ -18,7 +18,8 @@ If you are a student, beside an account on the server, you will also need a VPN 
 
 To connect directly, you can open terminal (macOS or Linux) or Powershell / CMD (Windows) and type (replace `mongo1` with the server you are connecting to)
 
-`ssh username@mongo1.luc.edu`, then hit `Enter`. It will prompt you to enter the password.
+```ssh username@mongo1.luc.edu```
+then hit `Enter`. It will prompt you to enter the password.
 
 
 #### 2. [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
