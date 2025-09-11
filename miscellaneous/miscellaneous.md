@@ -30,6 +30,9 @@ Some useful free online tools:
 
 - [Overleaf](https://www.overleaf.com/): online LaTeX environment, allowing Regular expression (RegEx) in advanced search. Introduction Slides ([part 1](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)); [part 2](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_2)); [part 3](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_3))). Walk through them quickly would familiarize you with the user interface.
 - A [template](https://www.overleaf.com/read/xdbqtdgyzdwk#513518) with simple examples I made. **Highly recommended for beginner to go over!**
+- How to get the Bibtex coee for your references
+    - from Google Scholar ([detailed steps](https://libguides.usask.ca/c.php?g=218034&p=1445751))
+    - from arxiv ([a toolbox](https://arxiv2bibtex.org/))
 - [Learn and test RegEx](https://regexr.com/); a [RegEx Puzzles](https://regexcrossword.com/)
 - [A short list of LaTeX syntaxes of common math symbols](https://12a9b868-6189-4c2c-b0b4-46a0d794deb8.filesusr.com/ugd/7c0a02_3dab6e1d268349f6b023b3737b7ab96e.pdf)
 - [Homework template (for students)](https://www.overleaf.com/read/xspntwpwyrqt)
