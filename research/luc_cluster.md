@@ -16,7 +16,9 @@ If you are a student, beside an account on the server, you will also need a VPN 
 
 #### 1.  [How to Access Cluster for First Time](https://github.com/xiangwanmath/xiangwanmath.github.io/blob/f6e1bee1e7df99f6d981fa8f5f3a5866a01992f9/research/ClusterAccessInstructions.pdf)
 
-To connect directly, you can open terminal (macOS or Linux) or Powershell / CMD (Windows) and type (replace `mongo1` with the server you are connecting to)
+To connect directly, it requires the `ssh` protocol`. 
+
+You can open terminal (macOS or Linux) or Powershell / CMD (Windows) and type (replace `mongo1` with the server you are connecting to)
 
 ```ssh username@mongo1.luc.edu```
 
@@ -31,5 +33,15 @@ then hit `Enter`. It will prompt you to enter the password.
 3. To connect back into the sessions, type `screen -r`. If you have multiple sessions, then when you type in `screen -r`, you will see the list of them. In that case you can type in `screen -r <PID Number>` to connect.
 4. Type `exit` to quit the current session.
 
-#### 4. 
+#### 4. Sending / Fetching files to / from the server
+One option is to use `github` for something more systematic and organized. Or one can `scp`, which is based on the `ssh` protocol. For instance, to copy from your local directory `./filename.py` to the server `mongo1` at your home directory, do (replace `~` by any path you want)
 
+`scp ./filename.py username@mongo1.luc.edu:~`
+
+To copy a whole directory (say, `Downloads`), use `-r` option:
+
+`scp -r ./Download username@mongo1.luc.edu:~`
+
+To fetch / download from the server, reverse the original and destination paths. For instance,
+
+`scp username@mongo1.luc.edu:~/filename.py ./`
