@@ -8,7 +8,7 @@ There are various computing clusters available to students at Loyola. Take a loo
 [LUC Computational Resources](https://www.luc.edu/its/rcs/computationalresources/)
 
 **Students users need**
-If you are a student, beside an account on the server, you will also need a VPN access to connect to the servers (including `mongo1`, `mongo2`, `rock`, `freya`, etc.) You need a faculty to request both the account setup and the VPN access for you.
+If you are a student, beside an account on the server, you will also need a VPN access to connect to the servers (including `mongo1`, `mongo2`, `rock`, `valkyrie`, etc.) You need a faculty to request both the account setup and the VPN access for you.
 
 
  - accounts set up on the server(s)
