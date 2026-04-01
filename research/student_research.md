@@ -59,7 +59,7 @@ If you are still interested this far, feel free to contact me **with questions**
   - Charles Clevenger, Summer 2025 - present
   - Luke Nowlis, Summer 2025 - present
   - Jake Lee, Summer 2025 - present
-  - Merisa Kraja, Spring 2025 - present
+  - Merisa Kraja, Spring 2025
   - Daleney Rager, Fall 2024 - present
   - Avery Boland, Summer 2024 - present
   - Amanda Newton: Summer 2023 - present
