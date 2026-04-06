@@ -23,10 +23,10 @@ Due to the theoretical nature, there are several different ways to do research i
 
   Loyola has established programs that aim on promoting undergraduate research. Most of them provide both a stipend and research funds. While some are designed for regular semesters, others are designated for summers. Check out the [LUROP website](https://www.luc.edu/celts/programs/undergraduateresearch/) and read the website through. It contains a lot of useful information. The annual application deadline is <ins>March 1</ins>. Among these fellowships, the ones students can apply for with math projects are 
   - [USRE](https://www.luc.edu/cas/academics/undergraduateresearchopportunities/) (first- and second-year only)
-  - [WISER](https://www.luc.edu/gannon/wiser.shtml) (female students only)
-  - [Carbon](https://www.luc.edu/celts/programs/undergraduateresearch/fellowships/carbonfellows/) (second-year only)
-  - [Mulcahy](https://www.luc.edu/cas/academics/undergraduateresearchopportunities/mulcahyfellowshipexperiences/) (any student; more suitable for research experienced students)
-  - [Provost](https://www.luc.edu/celts/programs/undergraduateresearch/fellowships/provostfellowship/) (any student; more suitable for research experienced students)
+  - [WISER](https://www.luc.edu/gannon/wiser.shtml) (female students only, students with no prior experience preferred)
+  - [Carbon](https://www.luc.edu/celts/programs/undergraduateresearch/fellowships/carbonfellows/) (second-year only, interdisciplinary project required)
+  - [Mulcahy](https://www.luc.edu/cas/academics/undergraduateresearchopportunities/mulcahyfellowshipexperiences/) (any student; more suitable for experienced students in research)
+  - [Provost](https://www.luc.edu/celts/programs/undergraduateresearch/fellowships/provostfellowship/) (any student; more suitable for very experienced students in research)
 
   The Department of Mathematics and Statistics also supports a few projects for advanced students over the Rataj Fellowship. Its application is administered by the department and often opens towards the end of Spring semesters. Contact the department chair for more information.
 
@@ -56,6 +56,8 @@ If you are still interested this far, feel free to contact me **with questions**
 
 ![part of the group of students doing research with me in Spring 2025](./pic/research_students_Spring2025.jpg)
 
+  - Laoren Lai, Summer 2026
+  - Janani Kamalakkannan, Summer 2026
   - Charles Clevenger, Summer 2025 - present
   - Luke Nowlis, Summer 2025 - present
   - Jake Lee, Summer 2025 - present
