@@ -12,6 +12,10 @@ Detailed course information are posted on [Sakai](https://sakai.luc.edu/) for en
   - MATH 215: Object-oriented Programming with Mathematics (in python)
   - MATH 401/495: Math Graduate Seminar/Practicum
 
+#### Spring 2027
+  - MATH 162: Calculus II
+  - MATH 388/475: Functional Analysis
+
 #### [Past teaching](/past_teaching.md)
 
 #### Useful Learning Modules
