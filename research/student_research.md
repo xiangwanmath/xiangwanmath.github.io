@@ -56,7 +56,7 @@ If you are still interested this far, feel free to contact me **with questions**
 
 ![part of the group of students doing research with me in Spring 2025](./pic/research_students_Spring2025.jpg)
 
-  - Laoren Lai, Summer 2026
+  - Lauren Lai, Summer 2026
   - Janani Kamalakkannan, Summer 2026
   - Charles Clevenger, Summer 2025 - present
   - Luke Nowlis, Summer 2025 - present
