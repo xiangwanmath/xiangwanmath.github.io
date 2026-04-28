@@ -25,10 +25,8 @@ xwan1 [AT] luc [DOT] edu
 **_Tel:_**	
 773-508-3554 
 
-**_Office Hours, Fall 2025:_**
-- Wednesdays 3-4pm
-- Thursday 1-2pm
-- Wednesdays 9-10pm on Zoom (link provided on Sakai)
+**_Office Hours, Fall 2026:_**
+- TBA
 
 **_Departmental Webpage:_**
 [<u>https://www.luc.edu/math/profiles/wanxiang.shtml/</u>](https://www.luc.edu/math/profiles/wanxiang.shtml)
