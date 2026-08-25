@@ -45,4 +45,4 @@ I received my Ph.D in Mathematics in 2017 from [the University of Virginia](http
 
 My research has been partially supported by the [College of Arts and Sciences](https://www.luc.edu/cas/), by the [Office of the Provost](https://www.luc.edu/academicaffairs/index.shtml), and by the [National Science Foundation](https://www.nsf.gov/).
 
-I help organize the [Analysis Seminar](https://fermat.math.luc.edu/analysis_seminar/) at Loyola and serve as the co-advisor of the [LUC SIAM Student Chapter](https://www.luc.edu/math/lucsiamstudentchapter/).
+I help organize the [Analysis Seminar](https://fermat.math.luc.edu/analysis_seminar/) at Loyola and serve as the co-advisor (together with Dr. [Tuyen Tran](https://www.luc.edu/math/profiles/trantuyen.shtml)) of the [LUC SIAM Student Chapter](https://www.luc.edu/math/lucsiamstudentchapter/). See a piece on the [SIAM News](https://www.siam.org/publications/siam-news/articles/mathematics-in-action-launching-the-loyola-university-chicago-siam-student-chapter/) about the inaugural year of the chapter.
