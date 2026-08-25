@@ -26,7 +26,7 @@ xwan1 [AT] luc [DOT] edu
 773-508-3554 
 
 **_Office Hours, Fall 2026:_**
-- TBA
+- Wednesdays 1-3pm
 
 **_Departmental Webpage:_**
 [<u>https://www.luc.edu/math/profiles/wanxiang.shtml/</u>](https://www.luc.edu/math/profiles/wanxiang.shtml)
