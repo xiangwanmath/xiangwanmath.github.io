@@ -19,11 +19,12 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 
 ### Publication
 
-#### Published
+#### In Review
 
 * [**Excitation and Identifiability in the 2D Navier-Stokes equations**](https://arxiv.org/abs/2609.31230)
 
     with Vincent R. Martinez and Sarah Strikwerda
+  
 
 * [**WSVI: A Dimensionless Shape Family for Implied Volatility and Its Static No-Arbitrage Structure**](https://arxiv.org/abs/2608.22620)
 
