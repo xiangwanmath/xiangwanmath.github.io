@@ -25,10 +25,19 @@ My research is in Applied Mathematics, in particular, centered around nonlinear 
 
     with Vincent R. Martinez and Sarah Strikwerda
   
+    <details>
+    <summary>Abstract</summary>
+    Convergence in parameter estimation classically requires "persistency of excitation," which is a non-degeneracy condition on a trajectory-dependent signal. This paper develops, to the best of our knowledge, the first such excitation theory for a nonlinear partial differential equation. In the context of identifying the unknown viscosity from spectral observations in the two-dimensional Navier--Stokes equations for incompressible fluids, our excitation condition is computable, verifiable a priori, and sharp with respect to scaling. Our approach employs a data assimilation methodology to account for an unknown initial state and select candidate viscosities by minimizing the loss between the low-mode observations of the fluid velocity and low-mode projection of a nudging-based filter that assimilates these observations. The main novelty of our framework is to distinguish a new functional, $\mathsf{W}$, representing the work done by the filter's associated sensitivity variable on the enstrophy, around which our entire analysis is centered. We show that $\mathsf{W}$ is explicitly comparable to the observability Gramian of the associated Gauss--Newton iteration, and subsequently establish the following dichotomy at every critical point of the observational loss: either $\mathsf{W}$ exceeds a certain threshold, in which case the candidate viscosity obeys an explicit error estimate that depends inversely on $\mathsf{W}$ and the observational density $N$, but directly on the error between initial conditions, or else $\mathsf{W}$ is below the threshold and the observations are quantitatively insensitive to parameter updates in a way that is detectable to the user. Notably, our approach is energy-based, and therefore expected to be adaptable to many other nonlinear dissipative systems.
+    </details>
 
 * [**WSVI: A Dimensionless Shape Family for Implied Volatility and Its Static No-Arbitrage Structure**](https://arxiv.org/abs/2608.22620)
 
     with Charles Clevenger
+
+    <details>
+    <summary>Abstract</summary>
+    W-shaped smiles appear in near-expiry options around binary events such as earnings, and have been associated with bimodal risk-neutral densities. The three-parameter eSSVI slice cannot produce them. This paper defines WSVI, a parametric family for implied volatility that admits negative at-the-forward curvature and bimodal implied densities, and develops its static no-arbitrage structure. The construction factorizes total variance into a level and a dimensionless shape of normalized log-moneyness. The shape extends the per-slice eSSVI form with bounded one-sided basis terms, which add flexibility in the interior while leaving the leading-order wing behavior controlled by the affine and quadratic components. We characterize the family's exact domain and write the butterfly, vertical spread, and calendar conditions directly in shape coordinates.
+    </details>
   
 #### Published
 
